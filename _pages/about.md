@@ -42,7 +42,7 @@ My research interests span multimodal large language models, AI for math reasoni
 
 [Hilbert-Geo: Solving Solid Geometric Problems by Neural-Symbolic Reasoning](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Ruoran XU**, Haoyu Cheng, Bin Dong, Qiufeng Wang
+**Ruoran Xu**, Haoyu Cheng, Bin Dong, Qiufeng Wang
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -54,7 +54,7 @@ My research interests span multimodal large language models, AI for math reasoni
   
 [Singularity-aware Optimization via Randomized Geometric Probing: Towards Stable Non-smooth Optimization](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Ruoran XU**, Borong She, Qiufeng Wang, Xiaobo Jin
+**Ruoran Xu**, Borong She, Qiufeng Wang, Xiaobo Jin
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -66,7 +66,7 @@ My research interests span multimodal large language models, AI for math reasoni
   
 [Omni-Geo: Full-Domain Geometry with Multimodal Diagram Generation](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Ruoran XU**, Wending Gao, Haoyu Cheng, Chengrui Zhang, Maizhen Ning, Qiufeng Wang
+**Ruoran Xu**, Wending Gao, Haoyu Cheng, Chengrui Zhang, Maizhen Ning, Qiufeng Wang
 
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
