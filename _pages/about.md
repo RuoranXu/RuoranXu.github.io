@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second year undergraduate student majoring in Applied Mathematics at the School of Mathematics and Physics, Xi'an Jiaotong Liverpool University (XJTLU). Concurrently, I serve as a Research Assistant at [PremiLab](https://premilab-math.github.io/), where I am supervised by Prof. [Qiufeng Wang](https://scholar.xjtlu.edu.cn/en/persons/QiufengWang/).
-If you are interested in my research, please feel free to contact me.
+I am a second-year undergraduate student expecting to complete my BSc degree in Applied Mathematics at the University of Liverpool in 2028. Concurrently, I serve as a Research Assistant at [PremiLab](https://premilab-math.github.io/), where I am supervised by Prof. [Qiufeng Wang](https://scholar.xjtlu.edu.cn/en/persons/QiufengWang/).
+I am currently seeking research internships or visiting student opportunities. If you are interested in my research, please feel free to contact me.
 
 My research interests span multimodal large language models, AI for math reasoning, autoformalization, and Neuro-Symbolic methods. In my spare time, I also engage in research on optimization theory and mathematical physics.
 
@@ -37,10 +37,10 @@ My research interests span multimodal large language models, AI for math reasoni
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Hilbert-Geo: Solving Solid Geometric Problems by Neural-Symbolic Reasoning](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Ruoran XU**, Haoyu Cheng, Bin Dong, Qiufeng Wang
 
@@ -49,10 +49,10 @@ My research interests span multimodal large language models, AI for math reasoni
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 (Under Review)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Singularity-aware Optimization via Randomized Geometric Probing: Towards Stable Non-smooth Optimization](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Ruoran XU**, Borong She, Qiufeng Wang, Xiaobo Jin
 
@@ -61,16 +61,16 @@ My research interests span multimodal large language models, AI for math reasoni
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026 (Under Review)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Omni-Geo: Full-Domain Geometry with Multimodal Diagram Generation](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Ruoran XU**, Wending Gao, Haoyu Cheng, Chengrui Zhang, Maizhen Ning, Qiufeng Wang
 
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- sss. 
 </div>
 </div>
 
