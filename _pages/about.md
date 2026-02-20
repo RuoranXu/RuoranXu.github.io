@@ -37,39 +37,39 @@ My research interests span multimodal large language models, AI for math reasoni
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/cvpr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Hilbert-Geo: Solving Solid Geometric Problems by Neural-Symbolic Reasoning](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Hilbert-Geo: Solving Solid Geometric Problems by Neural-Symbolic Reasoning](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Leg_CVPR_2016_paper.pdf)
 
 **Ruoran Xu**, Haoyu Cheng, Bin Dong, Qiufeng Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 (Under Review)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 (Under Review)</div><img src='images/ICML.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Singularity-aware Optimization via Randomized Geometric Probing: Towards Stable Non-smooth Optimization](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Singularity-aware Optimization via Randomized Geometric Probing: Towards Stable Non-smooth Optimization](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Leag_CVPR_2016_paper.pdf)
 
 **Ruoran Xu**, Borong She, Qiufeng Wang, Xiaobo Jin
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citatil=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026 (Under Review)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026 (Under Review)</div><img src='images/eccv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Omni-Geo: Full-Domain Geometry with Multimodal Diagram Generation](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Omni-Geo: Full-Domain Geometry with Multimodal Diagram Generation](https://openaccess.thecvf.com/content_cvpr_2016/p/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Ruoran Xu**, Wending Gao, Haoyu Cheng, Chengrui Zhang, Maizhen Ning, Qiufeng Wang
 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&uswAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - sss. 
 </div>
 </div>
