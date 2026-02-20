@@ -45,7 +45,7 @@ My research interests span multimodal large language models, AI for math reasoni
 **Ruoran Xu**, Haoyu Cheng, Bin Dong, Qiufeng Wang
 
 [**Project**](https://scholar.google.com/citations?view_op=&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Coming...
 </div>
 </div>
 
@@ -57,7 +57,7 @@ My research interests span multimodal large language models, AI for math reasoni
 **Ruoran Xu**, Borong She, Qiufeng Wang, Xiaobo Jin
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citatil=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Coming... 
 </div>
 </div>
 
@@ -70,7 +70,7 @@ My research interests span multimodal large language models, AI for math reasoni
 
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&uswAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- sss. 
+- Coming...
 </div>
 </div>
 
