@@ -17,14 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a second year undergraduate student majoring in Applied Mathematics at the School of Mathematics and Physics, Xi'an Jiaotong Liverpool University (XJTLU). Concurrently, I serve as a Research Assistant at [PremiLab](https://premilab-math.github.io/), where I am supervised by Prof. [Qiufeng Wang](https://scholar.xjtlu.edu.cn/en/persons/QiufengWang/).
+If you are interested in my research, please feel free to contact me.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests span multimodal large language models, AI for math reasoning, autoformalization, and Neuro-Symbolic methods. In my spare time, I also engage in research on optimization theory and mathematical physics.
+
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *FUTURE*: In the coming months, we will launch a large language model for solving Lean analytic geometry problems, a dual-feedback model with multimodal embedding in prover, and a large Olympic physics competition special benchmark.
+- *2026.02*: &nbsp;🎉🎉 We have constructed a large benchmark of multimodal geometry problems, Omni-Geo and live-Omni-Geo, which is expected to be submitted to ECCV2026.
+- *2026.01*: &nbsp;🎉🎉 This is my first attempt in the field of optimization. I submitted a paper on the optimization behavior of non-smooth perception to ICML2026.
+- *2025.11*: &nbsp;🎉🎉 I have completed a manuscript on solving multimodal mathematical problems and submitted it to CVPR2026.
+- *2025.06*: &nbsp;🎉🎉 I was supported by the Summer Undergraduate Research Fellowship(SURF) at XJTLU to study large language models for math reasoning.
+- *2025.03*: &nbsp;🎉🎉 I will intern at the Shanghai Key Laboratory of Multidimensional Information Processing for several months.
+- *2025.03*: &nbsp;🎉🎉 I will serve as the Head of the Academic Department for the Math Club and Physics Club at XJTLU.
+- *2025.02*: &nbsp;🎉🎉 I joined [PremiLab](https://premilab-math.github.io/) as a research assistant.
+- *2024.12*: &nbsp;🎉🎉 I translated a textbook: Method in contemporary mathematical physics.
 
 # 📝 Publications 
 
@@ -33,7 +42,16 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Ruoran XU**, Haoyu Cheng, Bin Dong, Qiufeng Wang
+
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Ruoran XU**, Borong She, Qiufeng Wang, Xiaobo Jin
+
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Ruoran XU**, Wending Gao, Haoyu Cheng, Chengrui Zhang, Maizhen Ning, Qiufeng Wang
+
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -42,17 +60,15 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09 - 2028.06 (Expected)*, University of Liverpool, BSc. Applied Mathematics
+• GPA: 3.81/4.00
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🎖 Honors and Awards
+- *2025* Honorable Mention, Mathematical Contest in Modeling (MCM)
+- *2024* Bronze Award, University Physics Competition in Modeling (UPC)
+- *2022* First Prize, Chinese Physics Olympiad (CPHO)
+- *2020* Second Prize, National Olympiad in Informatics in Provinces (NOIP)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.03 - 2025.08*, [Shanghai Key Laboratory of Multidimensional Information Processing](https://github.com/), Shanghai.
