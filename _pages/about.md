@@ -44,10 +44,26 @@ My research interests span multimodal large language models, AI for math reasoni
 
 **Ruoran XU**, Haoyu Cheng, Bin Dong, Qiufeng Wang
 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Ruoran XU**, Borong She, Qiufeng Wang, Xiaobo Jin
 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Ruoran XU**, Wending Gao, Haoyu Cheng, Chengrui Zhang, Maizhen Ning, Qiufeng Wang
@@ -58,7 +74,6 @@ My research interests span multimodal large language models, AI for math reasoni
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 📖 Educations
 - *2024.09 - 2028.06 (Expected)*, University of Liverpool, BSc. Applied Mathematics
@@ -71,4 +86,4 @@ My research interests span multimodal large language models, AI for math reasoni
 - *2020* Second Prize, National Olympiad in Informatics in Provinces (NOIP)
 
 # 💻 Internships
-- *2025.03 - 2025.08*, [Shanghai Key Laboratory of Multidimensional Information Processing](https://github.com/), Shanghai.
+- *2025.03 - 2025.08*, [Shanghai Key Laboratory of Multidimensional Information Processing](https://mip.ecnu.edu.cn/), Shanghai.
