@@ -17,16 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year undergraduate student expecting to complete my BSc degree in Applied Mathematics at the University of Liverpool in 2028. Concurrently, I serve as a Research Assistant at [PremiLab](https://premilab-math.github.io/), where I am supervised by Prof. [Qiufeng Wang](https://scholar.xjtlu.edu.cn/en/persons/QiufengWang/).
+I am a second-year undergraduate student expecting to complete my BSc degree in Applied Mathematics at the University of Liverpool in 2028. Concurrently, I serve as a Research Assistant at [PremiLab](https://premilab-math.github.io/), where I am supervised by Prof. [Qiufeng Wang](https://wqf510.github.io/).
 I am currently seeking research internships or visiting student opportunities. If you are interested in my research, please feel free to contact me.
 
-My research interests span multimodal large language models, AI for math reasoning, autoformalization, and Neuro-Symbolic methods. In my spare time, I also engage in research on optimization theory and mathematical physics.
+My research interests span multimodal large language models, AI for math reasoning, autoformalization, and Neuro-Symbolic methods. In my spare time, I also engage in research on optimization theory and mathematical physics. I am also fascinated by representation theory and ontology.
 
+# 🚧 Future
+- In the coming months, we will launch a large language model for solving Lean4 analytic geometry problems, a dual-feedback prover-model with Parse2Reason step, and a large Olympic physics competition special benchmark. If you are interested in my research, please feel free to contact me.
 
 
 # 🔥 News
-- *FUTURE*: In the coming months, we will launch a large language model for solving Lean analytic geometry problems, a dual-feedback model with multimodal embedding in prover, and a large Olympic physics competition special benchmark.
-- *2026.02*：&nbsp;🎉🎉 Hilbert-Geo: Solving Solid Geometric Problems by Neural-Symbolic Reasoning was accepted by CVPR2026.
+- *2026.02*：&nbsp;🎉🎉 My first paper "Hilbert-Geo: Solving Solid Geometric Problems by Neural-Symbolic Reasoning" was accepted by CVPR2026.
 - *2026.02*: &nbsp;🎉🎉 We have constructed a large benchmark of multimodal geometry problems, Omni-Geo and live-Omni-Geo, which is expected to be submitted to ECCV2026.
 - *2026.01*: &nbsp;🎉🎉 This is my first attempt in the field of optimization. I submitted a paper on the optimization behavior of non-smooth perception to ICML2026.
 - *2025.11*: &nbsp;🎉🎉 I have completed a manuscript on solving multimodal mathematical problems and submitted it to CVPR2026.
@@ -45,8 +46,9 @@ My research interests span multimodal large language models, AI for math reasoni
 
 **Ruoran Xu**, Haoyu Cheng, Bin Dong, Qiufeng Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Coming...
+[**Project**](https://scholar.google.com/citations?view_op=&hl=zh-CN&user=DhtAFkwAAAAJitation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Developed a Multimodal Formalization Parser to enable cross-modal formalization of geometry. 
+Designed a Solid Geometry Reasoning Engine with formal verification mechanisms to enable provably error-free geometric deduction via symbolic logic.
 </div>
 </div>
 
@@ -57,8 +59,10 @@ My research interests span multimodal large language models, AI for math reasoni
 
 **Ruoran Xu**, Borong She, Qiufeng Wang, Xiaobo Jin
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citatil=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Coming... 
+[**Project**](https://scholar.google.com/citations?view_op=view_citatil=zh-&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Proposed a geometry-aware theoretical paradigm for non-smooth optimization, quantifying local instability via Clarke subdifferential analysis.
+Proposed the LGI metric, establishing a rigorous and efficient proxy for subdifferential diameter based on randomized directional derivatives.
+Proved the convergence of S-Adam, which converges to Clarke stationary points at a $O(1/\sqrt{T})$ rate, providing fundamental theoretical support for singularity-aware optimization.
 </div>
 </div>
 
@@ -70,7 +74,7 @@ My research interests span multimodal large language models, AI for math reasoni
 **Ruoran Xu**, Wending Gao, Haoyu Cheng, Chengrui Zhang, Maizhen Ning, Qiufeng Wang
 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&uswAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&uswAAAAJ&cation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Coming...
 </div>
 </div>
