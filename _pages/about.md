@@ -20,7 +20,7 @@ redirect_from:
 I am a second-year undergraduate student expecting to complete my BSc degree in Applied Mathematics at the University of Liverpool in 2028. Concurrently, I serve as a Research Assistant at [PremiLab](https://premilab-math.github.io/), where I am supervised by Prof. [Qiufeng Wang](https://wqf510.github.io/).
 I am currently seeking research internships or visiting student opportunities. If you are interested in my research, please feel free to contact me.
 
-My research interests span multimodal large language models, AI for math reasoning, autoformalization, and Neuro-Symbolic methods. In my spare time, I also engage in research on optimization theory and mathematical physics. I am also fascinated by representation theory and ontology.
+My research interests span AI for math reasoning, autoformalization, multimodal large language models and Reinforcement Learning. In my spare time, I also engage in research on optimization theory and mathematical physics. I am also fascinated by representation theory and ontology.
 
 # 🚧 Future
 - In the coming months, we will launch a large language model for solving Lean4 analytic geometry problems, a dual-feedback prover-model with Parse2Reason step, and a large Olympic physics competition special benchmark. If you are interested in my research, please feel free to contact me.
