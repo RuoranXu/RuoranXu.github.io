@@ -26,6 +26,7 @@ My research interests span multimodal large language models, AI for math reasoni
 
 # 🔥 News
 - *FUTURE*: In the coming months, we will launch a large language model for solving Lean analytic geometry problems, a dual-feedback model with multimodal embedding in prover, and a large Olympic physics competition special benchmark.
+- *2026.02*：&nbsp;🎉🎉 Hilbert-Geo: Solving Solid Geometric Problems by Neural-Symbolic Reasoning was accepted by CVPR2026.
 - *2026.02*: &nbsp;🎉🎉 We have constructed a large benchmark of multimodal geometry problems, Omni-Geo and live-Omni-Geo, which is expected to be submitted to ECCV2026.
 - *2026.01*: &nbsp;🎉🎉 This is my first attempt in the field of optimization. I submitted a paper on the optimization behavior of non-smooth perception to ICML2026.
 - *2025.11*: &nbsp;🎉🎉 I have completed a manuscript on solving multimodal mathematical problems and submitted it to CVPR2026.
@@ -37,7 +38,7 @@ My research interests span multimodal large language models, AI for math reasoni
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026  (Under Review)</div><img src='images/cvpr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/cvpr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hilbert-Geo: Solving Solid Geometric Problems by Neural-Symbolic Reasoning](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Leg_CVPR_2016_paper.pdf)
