@@ -29,7 +29,7 @@ My research interests span multimodal large language models, AI for math reasoni
 # 🔥 News
 - *2026.02*：&nbsp;🎉🎉 My first paper "Hilbert-Geo: Solving Solid Geometric Problems by Neural-Symbolic Reasoning" was accepted by CVPR2026.
 - *2026.02*: &nbsp;🎉🎉 We have constructed a large benchmark of multimodal geometry problems, Omni-Geo and live-Omni-Geo, which is expected to be submitted to ECCV2026.
-- *2026.01*: &nbsp;🎉🎉 This is my first attempt in the field of optimization. I submitted a paper on the optimization behavior of non-smooth perception to ICML2026.
+- *2026.01*: &nbsp;🎉🎉 This is my first attempt in the field of optimization, thanks for the Mathematical analysis course this semester. I submitted a paper on the optimization behavior of non-smooth perception to ICML2026.
 - *2025.11*: &nbsp;🎉🎉 I have completed a manuscript on solving multimodal mathematical problems and submitted it to CVPR2026.
 - *2025.06*: &nbsp;🎉🎉 I was supported by the Summer Undergraduate Research Fellowship(SURF) at XJTLU to study large language models for math reasoning.
 - *2025.03*: &nbsp;🎉🎉 I will intern at the Shanghai Key Laboratory of Multidimensional Information Processing for several months.
@@ -47,8 +47,8 @@ My research interests span multimodal large language models, AI for math reasoni
 **Ruoran Xu**, Haoyu Cheng, Bin Dong, Qiufeng Wang
 
 [**Project**](https://scholar.google.com/citations?view_op=&hl=zh-CN&user=DhtAFkwAAAAJitation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Developed a Multimodal Formalization Parser to enable cross-modal formalization of geometry. 
-Designed a Solid Geometry Reasoning Engine with formal verification mechanisms to enable provably error-free geometric deduction via symbolic logic.
+- By integrating ontology and topological structures, we developed a Multimodal Formalization Parser to enable cross-modal formalization of geometry.
+Leveraging this foundational integration, we further designed a Reasoning Engine equipped with formal verification mechanisms.
 </div>
 </div>
 
