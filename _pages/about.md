@@ -32,7 +32,7 @@ My research interests span AI for math reasoning, autoformalization, multimodal 
 - *2026.01*: &nbsp;🎉🎉 This is my first attempt in the field of optimization, thanks for the Mathematical analysis course this semester. I submitted a paper on the optimization behavior of non-smooth perception to ICML2026.
 - *2025.11*: &nbsp;🎉🎉 I have completed a manuscript on solving multimodal mathematical problems and submitted it to CVPR2026.
 - *2025.06*: &nbsp;🎉🎉 I was supported by the Summer Undergraduate Research Fellowship(SURF) at XJTLU to study large language models for math reasoning.
-- *2025.03*: &nbsp;🎉🎉 I will intern at the Shanghai Key Laboratory of Multidimensional Information Processing for several months.
+- *2025.03*: &nbsp;🎉🎉 I will intern at Shanghai AI Lab for several months.
 - *2025.03*: &nbsp;🎉🎉 I will serve as the Head of the Academic Department for the Math Club and Physics Club at XJTLU.
 - *2025.02*: &nbsp;🎉🎉 I joined [PremiLab](https://premilab-math.github.io/) as a research assistant.
 - *2024.12*: &nbsp;🎉🎉 I translated a textbook: Method in contemporary mathematical physics.
@@ -91,4 +91,4 @@ Proved the convergence of S-Adam, which converges to Clarke stationary points at
 - *2020* Second Prize, National Olympiad in Informatics in Provinces (NOIP)
 
 # 💻 Internships
-- *2025.03 - 2025.08*, [Shanghai Key Laboratory of Multidimensional Information Processing](https://mip.ecnu.edu.cn/), Shanghai.
+- *2025.03 - 2025.06*, Shanghai AI Lab, Shanghai.
