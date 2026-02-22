@@ -93,4 +93,6 @@ Proved the convergence of S-Adam, which converges to Clarke stationary points at
 # 💻 Internships
 - *2025.03 - 2025.06*, Shanghai AI Lab, Shanghai.
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=82VdebEAB-IbhOZadmAvBnd7U4ynrwYECN1vdd9ZvRY&cl=ffffff&w=a"></script>
+<h1 align='center'>
+<a href="https://mapmyvisitors.com/web/1c2qa"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=82VdebEAB-IbhOZadmAvBnd7U4ynrwYECN1vdd9ZvRY&cl=ffffff" /></a>
+</h1>
