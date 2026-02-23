@@ -46,7 +46,7 @@ My research interests span AI for math reasoning, autoformalization, multimodal 
 
 **Ruoran Xu**, Haoyu Cheng, Bin Dong, Qiufeng Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=&hl=zh-CN&user=DhtAFkwAAAAJitation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[** **](https://scholar.google.com/citations?view_op=&hl=zh-CN&user=DhtAFkwAAAAJitation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - By integrating ontology and topological structures, we developed a Multimodal Formalization Parser to enable cross-modal formalization of geometry.
 Leveraging this foundational integration, we further designed a Reasoning Engine equipped with formal verification mechanisms.
 </div>
@@ -59,7 +59,7 @@ Leveraging this foundational integration, we further designed a Reasoning Engine
 
 **Ruoran Xu**, Borong She, Qiufeng Wang, Xiaobo Jin
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citatil=zh-&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[** **](https://scholar.google.com/citations?view_op=view_citatil=zh-&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Proposed a geometry-aware theoretical paradigm for non-smooth optimization, quantifying local instability via Clarke subdifferential analysis.
 Proposed the LGI metric, establishing a rigorous and efficient proxy for subdifferential diameter based on randomized directional derivatives.
 Proved the convergence of S-Adam, which converges to Clarke stationary points at a $O(1/\sqrt{T})$ rate, providing fundamental theoretical support for singularity-aware optimization.
