@@ -42,7 +42,7 @@ My research interests span AI for math reasoning, autoformalization, multimodal 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/cvpr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Hilbert-Geo: Solving Solid Geometric Problems by Neural-Symbolic Reasoning](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Leg_CVPR_2016_paper.pdf)
+[Hilbert-Geo: Solving Solid Geometric Problems by Neural-Symbolic Reasoning]([https://openreview.net/pdf?id=almSVhhZ1U])
 
 **Ruoran Xu**, Haoyu Cheng, Bin Dong, Qiufeng Wang
 
