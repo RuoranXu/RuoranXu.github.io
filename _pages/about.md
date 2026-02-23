@@ -23,7 +23,7 @@ I am currently seeking research internships or visiting student opportunities. I
 My research interests span AI for math reasoning, autoformalization, multimodal large language models and Reinforcement Learning. In my spare time, I also engage in research on optimization theory and mathematical physics. I am also fascinated by representation theory and ontology.
 
 # 🚧 Future
-- In the coming months, we will launch a large language model for solving Lean4 analytic geometry problems, a dual-feedback prover-model with Parse2Reason step, and a large Olympic physics competition special benchmark. If you are interested in my research, please feel free to contact me.
+- In the coming year, I plan to launch a large language model for solving Lean4 analytic geometry problems, a dual-feedback prover-model with Parse2Reason step, and a large Olympic physics competition special benchmark. If you are interested in my research, please feel free to contact me.
 
 
 # 🔥 News
@@ -46,7 +46,7 @@ My research interests span AI for math reasoning, autoformalization, multimodal 
 
 **Ruoran Xu**, Haoyu Cheng, Bin Dong, Qiufeng Wang
 
-[** **](https://scholar.google.com/citations?view_op=&hl=zh-CN&user=DhtAFkwAAAAJitation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**📝**](https://scholar.google.com/citations?view_op=&hl=zh-CN&user=DhtAFkwAAAAJitation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - By integrating ontology and topological structures, we developed a Multimodal Formalization Parser to enable cross-modal formalization of geometry.
 Leveraging this foundational integration, we further designed a Reasoning Engine equipped with formal verification mechanisms.
 </div>
@@ -59,7 +59,7 @@ Leveraging this foundational integration, we further designed a Reasoning Engine
 
 **Ruoran Xu**, Borong She, Qiufeng Wang, Xiaobo Jin
 
-[** **](https://scholar.google.com/citations?view_op=view_citatil=zh-&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**📝**](https://scholar.google.com/citations?view_op=view_citatil=zh-&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Proposed a geometry-aware theoretical paradigm for non-smooth optimization, quantifying local instability via Clarke subdifferential analysis.
 Proposed the LGI metric, establishing a rigorous and efficient proxy for subdifferential diameter based on randomized directional derivatives.
 Proved the convergence of S-Adam, which converges to Clarke stationary points at a $O(1/\sqrt{T})$ rate, providing fundamental theoretical support for singularity-aware optimization.
@@ -74,7 +74,7 @@ Proved the convergence of S-Adam, which converges to Clarke stationary points at
 **Ruoran Xu**, Wending Gao, Haoyu Cheng, Chengrui Zhang*, Maizhen Ning*, Qiufeng Wang
 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&uswAAAAJ&cation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[ ](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&uswAAAAJ&cation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Coming...
 </div>
 </div>
