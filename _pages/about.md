@@ -23,7 +23,7 @@ I am currently seeking research internships or visiting student opportunities. I
 My research interests span AI for math reasoning, autoformalization, multimodal large language models and Reinforcement Learning. In my spare time, I also engage in research on optimization theory and mathematical physics.
 
 # 🚧 Future
-- In the coming year, I plan to launch a large language model for solving Lean4 analytic geometry problems (30%), a dual-feedback prover-model with Parse2Reason step (30%), and a large Olympic physics competition special benchmark (50%). If you are interested in my research, please feel free to contact me.
+- In the coming year, I plan to launch a large language model for solving Lean4 analytic geometry problems (30%), a dual-feedback prover-model with Parse2Reason step (30%), and a large Olympic physics competition multimodal benchmark (50%). If you are interested in my research, please feel free to contact me.
 
 
 # 🔥 News
