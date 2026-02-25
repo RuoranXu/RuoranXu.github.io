@@ -27,7 +27,9 @@ My research interests span AI for math reasoning, autoformalization, multimodal 
 
 
 # 🔥 News
-- *2026.02*：&nbsp;🎉🎉 My first paper "Hilbert-Geo: Solving Solid Geometric Problems by Neural-Symbolic Reasoning" was accepted by CVPR2026.
+
+<div style="max-height: 350px; overflow-y: auto; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px 15px; background-color: #fafafa;" markdown="1">
+- *2026.02*: &nbsp;🎉🎉 My first paper "Hilbert-Geo: Solving Solid Geometric Problems by Neural-Symbolic Reasoning" was accepted by CVPR2026.
 - *2026.02*: &nbsp;🎉🎉 We have constructed a large benchmark of multimodal geometry problems, Omni-Geo and live-Omni-Geo, which is expected to be submitted to ECCV2026.
 - *2026.01*: &nbsp;🎉🎉 This is my first attempt in the field of optimization, thanks for the Mathematical analysis course this semester. I submitted a paper on the optimization behavior of non-smooth perception to ICML2026.
 - *2025.11*: &nbsp;🎉🎉 I have completed a manuscript on solving multimodal mathematical problems and submitted it to CVPR2026.
@@ -36,6 +38,10 @@ My research interests span AI for math reasoning, autoformalization, multimodal 
 - *2025.03*: &nbsp;🎉🎉 I will serve as the Head of the Academic Department for the Math Club and Physics Club at XJTLU.
 - *2025.02*: &nbsp;🎉🎉 I joined [PremiLab](https://premilab-math.github.io/) as a research assistant.
 - *2024.12*: &nbsp;🎉🎉 I translated a textbook: Method in contemporary mathematical physics.
+
+</div>
+
+<span class='anchor' id='publications'></span>
 
 # 📝 Publications 
 
