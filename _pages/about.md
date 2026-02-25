@@ -20,10 +20,10 @@ redirect_from:
 I am a second-year undergraduate student expecting to complete my BSc degree in Applied Mathematics at the University of Liverpool in 2028. Concurrently, I serve as a Research Assistant at [PremiLab](https://premilab-math.github.io/), where I am supervised by Prof. [Qiufeng Wang](https://wqf510.github.io/).
 I am currently seeking research internships or visiting student opportunities. If you are interested in my research, please feel free to contact me.
 
-My research interests span AI for math reasoning, autoformalization, multimodal large language models and Reinforcement Learning. In my spare time, I also engage in research on optimization theory and mathematical physics. I am also fascinated by representation theory and ontology.
+My research interests span AI for math reasoning, autoformalization, multimodal large language models and Reinforcement Learning. In my spare time, I also engage in research on optimization theory and mathematical physics.
 
 # 🚧 Future
-- In the coming year, I plan to launch a large language model for solving Lean4 analytic geometry problems, a dual-feedback prover-model with Parse2Reason step, and a large Olympic physics competition special benchmark. If you are interested in my research, please feel free to contact me.
+- In the coming year, I plan to launch a large language model for solving Lean4 analytic geometry problems (30%), a dual-feedback prover-model with Parse2Reason step (30%), and a large Olympic physics competition special benchmark (50%). If you are interested in my research, please feel free to contact me.
 
 
 # 🔥 News
@@ -31,7 +31,7 @@ My research interests span AI for math reasoning, autoformalization, multimodal 
 <div style="max-height: 350px; overflow-y: auto; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px 15px; background-color: #fafafa;" markdown="1">
 - *2026.02*: &nbsp;🎉🎉 My first paper "Hilbert-Geo: Solving Solid Geometric Problems by Neural-Symbolic Reasoning" was accepted by CVPR2026.
 - *2026.02*: &nbsp;🎉🎉 We have constructed a large benchmark of multimodal geometry problems, Omni-Geo and live-Omni-Geo, which is expected to be submitted to ECCV2026.
-- *2026.01*: &nbsp;🎉🎉 This is my first attempt in the field of optimization, thanks for the Mathematical analysis course this semester. I submitted a paper on the optimization behavior of non-smooth perception to ICML2026.
+- *2026.01*: &nbsp;🎉🎉 This is my first attempt in the field of optimization. I submitted a paper on the optimization behavior of non-smooth perception to ICML2026.
 - *2025.11*: &nbsp;🎉🎉 I have completed a manuscript on solving multimodal mathematical problems and submitted it to CVPR2026.
 - *2025.06*: &nbsp;🎉🎉 I was supported by the Summer Undergraduate Research Fellowship(SURF) at XJTLU to study large language models for math reasoning.
 - *2025.03*: &nbsp;🎉🎉 I will intern at Shanghai AI Lab for several months.
