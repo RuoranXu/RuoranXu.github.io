@@ -36,7 +36,7 @@ My research interests span AI for math reasoning, Reinforcement learning, AI for
 - *2025.03*: &nbsp;🎉🎉 I will intern at Shanghai AI Lab for several months.
 - *2025.03*: &nbsp;🎉🎉 I will serve as the Head of the Academic Department for the Math Club and Physics Club at XJTLU.
 - *2025.02*: &nbsp;🎉🎉 I joined [PremiLab](https://premilab-math.github.io/) as a research assistant.
-- *2024.12*: &nbsp;🎉🎉 I translated a textbook: Method in contemporary mathematical physics.
+- *2024.12*: &nbsp;🎉🎉 I translated a textbook: [Method in contemporary mathematical physics](https://drive.google.com/file/d/1Z2Gl61_IojbPB8iT0BGODMree5qUinw6/view?usp=sharing).
 
 </div>
 
