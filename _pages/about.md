@@ -57,7 +57,7 @@ Leveraging this foundational integration, we further designed a Reasoning Engine
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 (Under Review)</div><img src='images/ICML.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IUnder Review</div><img src='images/ICML.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Singularity-aware Optimization via Randomized Geometric Probing: Towards Stable Non-smooth Optimization](https://drive.google.com/file/d/1qquYbjVgLDw2kZrjIZMFmYhJRMdB0POR/view?usp=sharing)
@@ -71,7 +71,7 @@ Proved the convergence of S-Adam, which converges to Clarke stationary points at
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026 (Under Review)</div><img src='images/eccv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/eccv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Omni-Geo: Full-Domain Geometry Benchmark with Multimodal Diagram Generation](https://openaccess.thecvf.com/content_cvpr_2016/p/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
