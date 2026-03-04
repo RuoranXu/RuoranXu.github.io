@@ -22,9 +22,6 @@ I am currently seeking research internships or visiting student opportunities. I
 
 My research interests span AI for math reasoning, Reinforcement learning, AI for Science and multimodal large language models. In my spare time, I also engage in research on optimization theory and mathematical physics.
 
-# 🚧 Future
-- In the coming months, I plan to launch a large language model for solving Lean4 analytic geometry problems with expert human-like reasoning skills (30%) and a large Olympic physics competition multimodal benchmark (60%). I still have some exciting ideas for automatically formalizing cutting-edge mathematical problems. If you are interested in my research, please feel free to contact me.
-
 
 # 🔥 News
 
@@ -83,11 +80,36 @@ Proved the convergence of S-Adam, which converges to Clarke stationary points at
 - Coming...
 </div>
 </div>
+# 🚧 Project
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming 50%</div><img src='images/phy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PhysElite](https://heart316.github.io/physics-question-platform/)
+
+Leader
+
+[**📝**](https://heart316.github.io/physics-question-platform/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- A large Olympic physics competition multimodal benchmark. We tracked the contestants' daily practice questions, understood the multimodal problem-solving steps, and analyzed and answered them.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming 30%</div><img src='images/ageo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Autoformalizing and Reasoning Analytic Geometry](https://github.com/RuoranXu/AnalyticGeo)
+
+Leader
+
+[**📝**](https://heart316.github.io/physics-question-platform/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Formalize graphical and textual content into Lean 4 with a large language model for solving analytic geometry problems with expert human-like reasoning skills.
+</div>
+</div>
 
 
 # 📖 Educations
 - *2024.09 - 2028.06 (Expected)*, University of Liverpool, BSc. Applied Mathematics
-• GPA: 3.81/4.00
+• GPA: 3.83/4.00
 
 # 🎖 Honors and Awards
 - *2025* Honorable Mention, Mathematical Contest in Modeling (MCM)
