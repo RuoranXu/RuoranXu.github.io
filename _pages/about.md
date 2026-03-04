@@ -20,7 +20,7 @@ redirect_from:
 I am a second-year undergraduate student expecting to complete my BSc degree in Applied Mathematics at the University of Liverpool in 2028. Concurrently, I serve as a Research Assistant at [PremiLab](https://premilab-math.github.io/), where I am supervised by Prof. [Qiufeng Wang](https://wqf510.github.io/).
 I am currently seeking research internships or visiting student opportunities. If you are interested in my research, please feel free to contact me.
 
-My research interests span AI for math reasoning, Reinforcement learning, AI for Science and multimodal large language models. In my spare time, I also engage in research on optimization theory and mathematical physics.
+My research interests span AI for math reasoning, AI for Science, multimodal large language models and Reinforcement Learning. In my spare time, I also engage in research on optimization theory and mathematical physics.
 
 
 # 🔥 News
@@ -80,16 +80,16 @@ Proved the convergence of S-Adam, which converges to Clarke stationary points at
 - Coming...
 </div>
 </div>
-# 🚧 Project
+# 🚧 Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming 50%</div><img src='images/phy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PhysElite](https://heart316.github.io/physics-question-platform/)
+[PhysElite:Olympic physics competition multimodal benchmark](https://heart316.github.io/physics-question-platform/)
 
-Leader
+**Leader**
 
-[**📝**](https://heart316.github.io/physics-question-platform/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**📝**](https:) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A large Olympic physics competition multimodal benchmark. We tracked the contestants' daily practice questions, understood the multimodal problem-solving steps, and analyzed and answered them.
 </div>
 </div>
@@ -99,9 +99,9 @@ Leader
 
 [Autoformalizing and Reasoning Analytic Geometry](https://github.com/RuoranXu/AnalyticGeo)
 
-Leader
+**Leader**
 
-[**📝**](https://heart316.github.io/physics-question-platform/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**📝**](https:) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Formalize graphical and textual content into Lean 4 with a large language model for solving analytic geometry problems with expert human-like reasoning skills.
 </div>
 </div>
