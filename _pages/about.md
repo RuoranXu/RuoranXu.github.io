@@ -41,7 +41,7 @@ My research interests span AI for math reasoning, AI for Science, multimodal lar
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/cvpr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/cvpr1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hilbert-Geo: Solving Solid Geometric Problems by Neural-Symbolic Reasoning](https://drive.google.com/file/d/1cl_LfzbXkjZMVcH5J-EAhDCRWbkq-KIe/view?usp=sharing)
@@ -54,7 +54,7 @@ Leveraging this foundational integration, we further designed a Reasoning Engine
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IUnder Review</div><img src='images/ICML.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ICML.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Singularity-aware Optimization via Randomized Geometric Probing: Towards Stable Non-smooth Optimization](https://drive.google.com/file/d/1qquYbjVgLDw2kZrjIZMFmYhJRMdB0POR/view?usp=sharing)
