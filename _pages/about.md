@@ -57,7 +57,7 @@ Leveraging this foundational integration, we further designed a Reasoning Engine
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ICML.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Singularity-aware Optimization via Randomized Geometric Probing: Towards Stable Non-smooth Optimization](https://drive.google.com/file/d/1qquYbjVgLDw2kZrjIZMFmYhJRMdB0POR/view?usp=sharing)
+[Singularity-aware Optimization via Randomized Geometric Probing: Towards Stable Non-smooth Optimization]()
 
 **Ruoran Xu**, Borong She, Qiufeng Wang, Xiaobo Jin
 
@@ -71,15 +71,29 @@ Proved the convergence of S-Adam, which converges to Clarke stationary points at
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/eccv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Omni-Geo: Full-Domain Geometry Benchmark with Multimodal Diagram Generation](https://openaccess.thecvf.com/content_cvpr_2016/p/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Omni-Geo: Full-Domain Geometry Benchmark with Multimodal Diagram Generation]()
 
 **Ruoran Xu**, Wending Gao, Haoyu Cheng, Chengrui Zhang*, Maizhen Ning*, Qiufeng Wang
 
 
-[ ](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&uswAAAAJ&cation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Coming...
+[**📝**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&uswAAAAJ&cation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Proposed Omni-Geo, the first unified benchmark for general geometric intelligence spanning plane, analytic, and solid geometry, built on a standardized Geometric Description Language (GDL) and an SDF-based diagram synthesis engine that produces contamination-free data. Comprising ~23K problems evaluated on 11 state-of-the-art LLMs and MLLMs, Omni-Geo highlights the necessity of a comprehensive, unified benchmark for assessing geometric reasoning.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/mm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[SDF-AnalyticGeo: Multi-Agent for Analytic Geometry Problem Generation]()
+
+**Ruoran Xu**, Wending Gao, Qiufeng Wang
+
+
+[**📝**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&uswAAAAJ&cation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Proposed SDF-AnalyticGeo, a scalable multi-agent pipeline for generating large-scale, high-quality multimodal analytic geometry problems via three collaborative agents covering problem generation, formalization, and SDF-based figure rendering. The resulting dataset—integrating natural language, standardized geometric images, ground-truth answers, and formal annotations—achieves over 90% geometric consistency and provides a unified benchmark for evaluating MLLMs on analytic geometry reasoning.
+</div>
+</div>
+
 
 
 # 🚧 Projects
