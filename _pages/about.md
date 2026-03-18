@@ -44,13 +44,13 @@ My research interests span AI for math reasoning, AI for Science, multimodal lar
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/cvpr1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Hilbert-Geo: Solving Solid Geometric Problems by Neural-Symbolic Reasoning](https://drive.google.com/file/d/1cl_LfzbXkjZMVcH5J-EAhDCRWbkq-KIe/view?usp=sharing)
+[Hilbert-Geo: Solving Solid Geometric Problems by Neural-Symbolic Reasoning](https://drive.google.com/file/d/1PR0_llQy4j6FsyOCJICpuc4bu84vwyOa/view?usp=sharing)
 
 **Ruoran Xu**, Haoyu Cheng, Bin Dong, Qiufeng Wang
 
 [**📝**](https://scholar.google.com/citations?view_op=&hl=zh-CN&user=DhtAFkwAAAAJitation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - By integrating ontology and topological structures, we developed a Multimodal Formalization Parser to enable cross-modal formalization of geometry.
-Leveraging this foundational integration, we further designed a Reasoning Engine equipped with formal verification mechanisms.
+Leveraging this foundational integration, we further designed a Reasoning Engine equipped with formal verification mechanisms via Parse2Reason step. The framework implements automatic formal reasoning.
 </div>
 </div>
 
