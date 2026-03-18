@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a second-year undergraduate student at Xi'an Jiaotong-Liverpool University, majoring in Applied Mathematics, and I am expected to complete my BSc degree at the University of Liverpool in 2028. Concurrently, I serve as a Research Assistant at [PremiLab](https://premilab-math.github.io/), where I am supervised by Prof. [Qiufeng Wang](https://wqf510.github.io/).
-I am currently seeking research internships or visiting student opportunities. If you are interested in my research, please feel free to contact me.
+I will visit yale for several months in the summer. If you are interested in my research, please feel free to contact me.
 
 My research interests span AI for math reasoning, AI for Science, multimodal large language models and Reinforcement Learning. In my spare time, I also engage in research on optimization theory and mathematical physics.
 
@@ -26,7 +26,7 @@ My research interests span AI for math reasoning, AI for Science, multimodal lar
 # 🔥 News
 
 <div style="max-height: 350px; overflow-y: auto; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px 15px; background-color: #fafafa;" markdown="1">
-- *2026.02*: &nbsp;🎉🎉 My first paper "Hilbert-Geo: Solving Solid Geometric Problems by Neural-Symbolic Reasoning" was accepted by CVPR2026.
+- *2026.02*: &nbsp;🎉🎉 Our work "Hilbert-Geo: Solving Solid Geometric Problems by Neural-Symbolic Reasoning" was accepted by CVPR2026.
 - *2026.01*: &nbsp;🎉🎉 This is my first attempt in the field of optimization. I submitted a paper on the optimization behavior of non-smooth perception to ICML2026.
 - *2025.11*: &nbsp;🎉🎉 I have completed a manuscript on solving multimodal mathematical problems and submitted it to CVPR2026.
 - *2025.06*: &nbsp;🎉🎉 I was supported by the Summer Undergraduate Research Fellowship(SURF) at XJTLU to study large language models for math reasoning.
@@ -73,7 +73,7 @@ Proved the convergence of S-Adam, which converges to Clarke stationary points at
   
 [Omni-Geo: Full-Domain Geometry Benchmark with Multimodal Diagram Generation]()
 
-**Ruoran Xu**, Wending Gao, Haoyu Cheng, Chengrui Zhang*, Maizhen Ning*, Qiufeng Wang
+**Ruoran Xu**, Wending Gao, Haoyu Cheng, Qiufeng Wang
 
 
 [**📝**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&uswAAAAJ&cation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
