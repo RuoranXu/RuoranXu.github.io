@@ -27,8 +27,6 @@ My research interests span AI for math reasoning, AI for Science, multimodal lar
 
 <div style="max-height: 350px; overflow-y: auto; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px 15px; background-color: #fafafa;" markdown="1">
 - *2026.02*: &nbsp;🎉🎉 Our work "Hilbert-Geo: Solving Solid Geometric Problems by Neural-Symbolic Reasoning" was accepted by CVPR2026.
-- *2026.01*: &nbsp;🎉🎉 This is my first attempt in the field of optimization. I submitted a paper on the optimization behavior of non-smooth perception to ICML2026.
-- *2025.11*: &nbsp;🎉🎉 I have completed a manuscript on solving multimodal mathematical problems and submitted it to CVPR2026.
 - *2025.06*: &nbsp;🎉🎉 I was supported by the Summer Undergraduate Research Fellowship(SURF) at XJTLU to study large language models for math reasoning.
 - *2025.03*: &nbsp;🎉🎉 I will intern at Shanghai AI Lab for several months.
 - *2025.03*: &nbsp;🎉🎉 I will serve as the Head of the Academic Department for the Math Club and Physics Club at XJTLU.
@@ -44,11 +42,11 @@ My research interests span AI for math reasoning, AI for Science, multimodal lar
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/cvpr1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Hilbert-Geo: Solving Solid Geometric Problems by Neural-Symbolic Reasoning](https://drive.google.com/file/d/1PR0_llQy4j6FsyOCJICpuc4bu84vwyOa/view?usp=sharing)
+[Hilbert-Geo: Solving Solid Geometric Problems by Neural-Symbolic Reasoning](https://github.com/CHYYYYYYYY/SolidGeoSolver)
 
 **Ruoran Xu**, Haoyu Cheng, Bin Dong, Qiufeng Wang
 
-[**📝**](https://scholar.google.com/citations?view_op=&hl=zh-CN&user=DhtAFkwAAAAJitation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**📝**](https://github.com/CHYYYYYYYY/SolidGeoSolver) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - By integrating ontology and topological structures, we developed a Multimodal Formalization Parser to enable cross-modal formalization of geometry.
 Leveraging this foundational integration, we further designed a Reasoning Engine equipped with formal verification mechanisms via Parse2Reason step. The framework implements automatic formal reasoning.
 </div>
@@ -57,11 +55,11 @@ Leveraging this foundational integration, we further designed a Reasoning Engine
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ICML.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Singularity-aware Optimization via Randomized Geometric Probing: Towards Stable Non-smooth Optimization]()
+[Singularity-aware Optimization via Randomized Geometric Probing: Towards Stable Non-smooth Optimization](https://github.com/RuoranXu/S-Adam)
 
-**Ruoran Xu**, Borong She, Qiufeng Wang, Xiaobo Jin
+**Ruoran Xu**, Borong She, Xiaobo Jin, Qiufeng Wang
 
-[**📝**](https://scholar.google.com/citations?view_op=view_citatil=zh-&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**📝**](https://github.com/RuoranXu/S-Adam) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Proposed a geometry-aware theoretical paradigm for non-smooth optimization, quantifying local instability via Clarke subdifferential analysis.
 Proposed the LGI metric, establishing a rigorous and efficient proxy for subdifferential diameter based on randomized directional derivatives.
 Proved the convergence of S-Adam, which converges to Clarke stationary points at a $O(1/\sqrt{T})$ rate, providing fundamental theoretical support for singularity-aware optimization.
@@ -73,7 +71,7 @@ Proved the convergence of S-Adam, which converges to Clarke stationary points at
   
 [Omni-Geo: Full-Domain Geometry Benchmark with Multimodal Diagram Generation]()
 
-**Ruoran Xu**, Wending Gao, Haoyu Cheng, Qiufeng Wang
+**Ruoran Xu**\*, Wending Gao\*, Haoyu Cheng\*, Qiufeng Wang
 
 
 [**📝**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&uswAAAAJ&cation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -86,7 +84,7 @@ Proved the convergence of S-Adam, which converges to Clarke stationary points at
   
 [SDF-AnalyticGeo: Multi-Agent for Analytic Geometry Problem Generation]()
 
-**Ruoran Xu**, Wending Gao, Qiufeng Wang
+**Ruoran Xu**\*, Wending Gao\*, Qiufeng Wang
 
 
 [**📝**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&uswAAAAJ&cation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -98,7 +96,7 @@ Proved the convergence of S-Adam, which converges to Clarke stationary points at
 
 # 🚧 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming 50%</div><img src='images/phy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming</div><img src='images/phy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PhysElite:Olympic physics competition multimodal benchmark](https://heart316.github.io/physics-question-platform/)
@@ -110,7 +108,7 @@ Proved the convergence of S-Adam, which converges to Clarke stationary points at
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming 30%</div><img src='images/ageo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming</div><img src='images/ageo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Autoformalizing and Reasoning Analytic Geometry](https://github.com/RuoranXu/AnalyticGeo)
@@ -130,7 +128,7 @@ Proved the convergence of S-Adam, which converges to Clarke stationary points at
 # 🎖 Honors and Awards
 - *2025* Honorable Mention, Mathematical Contest in Modeling (MCM)
 - *2024* Bronze Award, University Physics Competition in Modeling (UPC)
-- *2022* First Prize, Chinese Physics Olympiad (CPHO)
+- *2022* First Prize, Chinese Physics Olympiad in Provinces(CPHO)
 - *2020* Second Prize, National Olympiad in Informatics in Provinces (NOIP)
 
 # 💻 Internships
