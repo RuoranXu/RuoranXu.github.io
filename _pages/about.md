@@ -26,8 +26,8 @@ My research interests span AI for math reasoning, AI for Science, multimodal lar
 # 🔥 News
 
 <div style="max-height: 350px; overflow-y: auto; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px 15px; background-color: #fafafa;" markdown="1">
-- *2026.05*: &nbsp;🎉🎉 Our work "Singularity-aware Optimization via Randomized Geometric Probing: Towards Stable Non-smooth Optimization" was accepted by ICML2026.
-- *2026.02*: &nbsp;🎉🎉 Our work "Hilbert-Geo: Solving Solid Geometric Problems by Neural-Symbolic Reasoning" was accepted by CVPR2026.
+- *2026.05*: &nbsp;🎉🎉 Our work "Singularity-aware Optimization via Randomized Geometric Probing: Towards Stable Non-smooth Optimization" accepted to ICML2026.
+- *2026.02*: &nbsp;🎉🎉 Our work "Hilbert-Geo: Solving Solid Geometric Problems by Neural-Symbolic Reasoning" accepted to CVPR2026.
 - *2025.06*: &nbsp;🎉🎉 I was supported by the Summer Undergraduate Research Fellowship(SURF) at XJTLU to study large language models for math reasoning.
 - *2025.03*: &nbsp;🎉🎉 I will intern at Shanghai AI Lab for several months.
 - *2025.03*: &nbsp;🎉🎉 I will serve as the Head of the Academic Department for the Math Club and Physics Club at XJTLU.
