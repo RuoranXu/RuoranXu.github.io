@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a second-year undergraduate student at Xi'an Jiaotong-Liverpool University, majoring in Applied Mathematics, and I am expected to complete my BSc degree at the University of Liverpool in 2028. Concurrently, I serve as a Research Assistant at [PremiLab](https://premilab-math.github.io/), where I am supervised by Prof. [Qiufeng Wang](https://wqf510.github.io/).
-I will visit yale for several months in the summer, supervised by Prof. [Arman Cohan](https://armancohan.com/) and [Yilun Zhao](https://yilunzhao.github.io/). Feel free to contact me if you are interested in my work. I welcome discussions with people from different backgrounds.
+I will visit yale for several months in the summer, supervised by Prof. [Arman Cohan](https://armancohan.com/) and [Yilun Zhao](https://yilunzhao.github.io/). Feel free to contact me if you are interested in my work. I'm willing to discuss with people from different backgrounds.
 
 My research interests span AI for math reasoning, AI for Science, multimodal large language models and Reinforcement Learning. In my spare time, I also engage in research on optimization theory and mathematical physics. 
 
@@ -112,6 +112,7 @@ Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming</div><img src='images/ageo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+<!--
 [Autoformalizing and Reasoning Analytic Geometry](https://github.com/RuoranXu/AnalyticGeo)
 
 **Leader**
@@ -120,7 +121,7 @@ Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering
 - Formalize graphical and textual content into Lean 4 with a large language model for solving analytic geometry problems with expert human-like reasoning skills.
 </div>
 </div>
-
+-->
 
 # 📖 Educations
 - *2024.09 - 2028.06 (Expected)*, University of Liverpool, BSc. Applied Mathematics
