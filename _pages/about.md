@@ -109,10 +109,10 @@ Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering
 </div>
 </div>
 
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming</div><img src='images/ageo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<!--
 [Autoformalizing and Reasoning Analytic Geometry](https://github.com/RuoranXu/AnalyticGeo)
 
 **Leader**
