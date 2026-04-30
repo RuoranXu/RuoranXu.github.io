@@ -52,7 +52,7 @@ Leveraging this foundational integration, we further designed a Reasoning Engine
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ICML.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/ICML.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Singularity-aware Optimization via Randomized Geometric Probing: Towards Stable Non-smooth Optimization](https://github.com/RuoranXu/S-Adam)
