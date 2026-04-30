@@ -20,12 +20,13 @@ redirect_from:
 I am a second-year undergraduate student at Xi'an Jiaotong-Liverpool University, majoring in Applied Mathematics, and I am expected to complete my BSc degree at the University of Liverpool in 2028. Concurrently, I serve as a Research Assistant at [PremiLab](https://premilab-math.github.io/), where I am supervised by Prof. [Qiufeng Wang](https://wqf510.github.io/).
 I will visit yale for several months in the summer, supervised by Prof. [Arman Cohan](https://armancohan.com/) and [Yilun Zhao](https://yilunzhao.github.io/). If you are interested in my research, please feel free to contact me.
 
-My research interests span AI for math reasoning, AI for Science, multimodal large language models and Reinforcement Learning. In my spare time, I also engage in research on optimization theory and mathematical physics.
+My research interests span AI for math reasoning, AI for Science, multimodal large language models and Reinforcement Learning. In my spare time, I also engage in research on optimization theory and mathematical physics. I'm always willing to communicate with people from different backgrounds.
 
 
 # 🔥 News
 
 <div style="max-height: 350px; overflow-y: auto; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px 15px; background-color: #fafafa;" markdown="1">
+- *2026.05*: &nbsp;🎉🎉 Our work "Singularity-aware Optimization via Randomized Geometric Probing: Towards Stable Non-smooth Optimization" was accepted by ICML2026.
 - *2026.02*: &nbsp;🎉🎉 Our work "Hilbert-Geo: Solving Solid Geometric Problems by Neural-Symbolic Reasoning" was accepted by CVPR2026.
 - *2025.06*: &nbsp;🎉🎉 I was supported by the Summer Undergraduate Research Fellowship(SURF) at XJTLU to study large language models for math reasoning.
 - *2025.03*: &nbsp;🎉🎉 I will intern at Shanghai AI Lab for several months.
@@ -60,9 +61,9 @@ Leveraging this foundational integration, we further designed a Reasoning Engine
 **Ruoran Xu**, Borong She, Xiaobo Jin, Qiufeng Wang
 
 [**📝**](https://github.com/RuoranXu/S-Adam) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Proposed a geometry-aware theoretical paradigm for non-smooth optimization, quantifying local instability via Clarke subdifferential analysis.
-Proposed the LGI metric, establishing a rigorous and efficient proxy for subdifferential diameter based on randomized directional derivatives.
-Proved the convergence of S-Adam, which converges to Clarke stationary points at a $O(1/\sqrt{T})$ rate, providing fundamental theoretical support for singularity-aware optimization.
+- Proposed a geometry-aware paradigm for non-smooth optimization, capturing Clarke subdifferential via random finite difference to quantify local instability and suppress updates.
+Proposed the LGI metric, a rigorous efficient subdifferential diameter proxy built on randomized directional derivatives.
+Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering core theoretical support for singularity-aware optimization.
 </div>
 </div>
 
@@ -125,6 +126,8 @@ Proved the convergence of S-Adam, which converges to Clarke stationary points at
 - *2024.09 - 2028.06 (Expected)*, University of Liverpool, BSc. Applied Mathematics
 • GPA: 3.83/4.00
 
+<!--
+
 # 🎖 Honors and Awards
 - *2025* Honorable Mention, Mathematical Contest in Modeling (MCM)
 - *2024* Bronze Award, University Physics Competition in Modeling (UPC)
@@ -134,6 +137,7 @@ Proved the convergence of S-Adam, which converges to Clarke stationary points at
 # 💻 Internships
 - *2025.03 - 2025.06*, Shanghai AI Lab, Shanghai.
 
+-->
 <h1 align='center'>
 <a href="https://mapmyvisitors.com/web/1c2qa"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=82VdebEAB-IbhOZadmAvBnd7U4ynrwYECN1vdd9ZvRY&cl=ffffff" /></a>
 </h1>
