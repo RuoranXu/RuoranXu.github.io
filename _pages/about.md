@@ -134,11 +134,10 @@ Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering
 - *2024* Bronze Award, University Physics Competition in Modeling (UPC)
 - *2022* First Prize, Chinese Physics Olympiad in Provinces(CPHO)
 - *2020* Second Prize, National Olympiad in Informatics in Provinces (NOIP)
-
+-->
 # 💻 Internships
 - *2025.03 - 2025.06*, Shanghai AI Lab, Shanghai.
 
--->
 <h1 align='center'>
 <a href="https://mapmyvisitors.com/web/1c2qa"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=82VdebEAB-IbhOZadmAvBnd7U4ynrwYECN1vdd9ZvRY&cl=ffffff" /></a>
 </h1>
