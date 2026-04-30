@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Ruoran Xu"
-  avatar           : "images/xrr.jpg"
-  bio              : "ML,RL,AI4Math"
+  avatar           : "images/Rowan.png"
+  bio              : 
   location         : "CN"
   employer         :
   pubmed           : 
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://x.com/X_Ruoran"
   vine             :
   weibo            :
   xing             :
