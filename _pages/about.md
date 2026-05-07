@@ -94,18 +94,29 @@ Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/phys.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">  
+[PhysElite:How Far Are LLMs from Solving Olympiad-Level Physics Problems?]()
+**Ruoran Xu**\*, Wending Gao\*, Liyunfeng Chen\*, Aixin Shi\*, Haoyu Cheng\*, Zixiang Fang, Yiqiang Zou, Qiufeng Wang
+
+
+[**📝**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&uswAAAAJ&cation_for_view=DhtAFkwAAAAJ:ALROH1vI_8A) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-  A large Olympic physics competition multimodal benchmark. We tracked the contestants' daily practice questions, understood the multimodal problem-solving steps, and analyzed and answered them.
+</div>
+</div>
+
 
 # 🚧 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming</div><img src='images/phy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming</div><img src='images/geo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PhysElite:Olympic physics competition multimodal benchmark](https://heart316.github.io/physics-question-platform/)
+[Formalize geometric problems in Lean4]()
 
 **Leader**
 
 [**📝**](https:) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- A large Olympic physics competition multimodal benchmark. We tracked the contestants' daily practice questions, understood the multimodal problem-solving steps, and analyzed and answered them.
+- ......
 </div>
 </div>
 
