@@ -96,6 +96,7 @@ Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/phys.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">  
 [PhysElite:How Far Are LLMs from Solving Olympiad-Level Physics Problems?]()
+
 **Ruoran Xu**\*, Wending Gao\*, Liyunfeng Chen\*, Aixin Shi\*, Haoyu Cheng\*, Zixiang Fang, Yiqiang Zou, Qiufeng Wang
 
 
