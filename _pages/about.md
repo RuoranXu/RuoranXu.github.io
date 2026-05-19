@@ -18,9 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a second-year undergraduate student at Xi'an Jiaotong-Liverpool University, majoring in Applied Mathematics, and I am expected to complete my BSc degree at the University of Liverpool in 2028. Concurrently, I serve as a Research Assistant at [PremiLab](https://premilab-math.github.io/), where I am supervised by Prof. [Qiufeng Wang](https://wqf510.github.io/).
-I will visit yale for several months in the summer, supervised by Prof. [Arman Cohan](https://armancohan.com/) and [Yilun Zhao](https://yilunzhao.github.io/). Feel free to contact me if you are interested in my work. I'm willing to discuss with people from different backgrounds.
+I will visit yale for several months in the summer, supervised by Prof. [Arman Cohan](https://armancohan.com/) and [Yilun Zhao](https://yilunzhao.github.io/). 
+Feel free to contact me if you are interested in my work. I'm willing to discuss with people from different backgrounds.
 
-My research interests span AI for Verifiable Reasoning, AI for Scientific Discovery, multimodal large language models and Reinforcement learning. In my spare time, I also engage in research on optimization theory and mathematical physics. 
+My goal is to achieve robust and resilient reasoning system from the bottom up. I seek inspiration from first principles and put them into practice on both methodology and applied fronts. My explorations have spanned AI for formal reasoning, optimization theory, reinforcement learning, agent systems, retrieval-augmented methods, and AI for scientific discovery.
+<!--
+My research interests span AI for Verifiable Reasoning, AI for Scientific Discovery, multimodal large language models and Reinforcement learning. 
+<!-->
+In my spare time, I also engage in Mathematical Methods for Physics.
 
 
 # 🔥 News
@@ -28,7 +33,7 @@ My research interests span AI for Verifiable Reasoning, AI for Scientific Discov
 <div style="max-height: 350px; overflow-y: auto; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px 15px; background-color: #fafafa;" markdown="1">
 - *2026.05*: &nbsp;🎉🎉 Excited to have one paper accepted at ICML 2026!
 - *2026.02*: &nbsp;🎉🎉 Excited to have one paper accepted at CVPR 2026!
-- *2025.06*: &nbsp;🎉🎉 I was supported by the Summer Undergraduate Research Fellowship(SURF) at XJTLU to study large language models for math reasoning.
+- *2025.06*: &nbsp;🎉🎉 I was supported by the Summer Undergraduate Research Fellowship(SURF) at XJTLU to study LLM for math reasoning.
 - *2025.03*: &nbsp;🎉🎉 I will serve as the Head of the Academic Department for the Math Club and Physics Club at XJTLU.
 - *2025.02*: &nbsp;🎉🎉 I joined [PremiLab](https://premilab-math.github.io/) as a research assistant.
 - *2024.12*: &nbsp;🎉🎉 I translated a textbook: Method in contemporary mathematical physics. [Here](https://drive.google.com/file/d/1Z2Gl61_IojbPB8iT0BGODMree5qUinw6/view?usp=sharing) is a part of the first draft.
@@ -42,17 +47,17 @@ My research interests span AI for Verifiable Reasoning, AI for Scientific Discov
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/cvpr1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Hilbert-Geo: Solving Solid Geometric Problems by Neural-Symbolic Reasoning](https://github.com/CHYYYYYYYY/SolidGeoSolver)
+[Hilbert-Geo: Solving Solid Geometric Problems by Neural-Symbolic Reasoning](https://github.com/PremiLab-Math/Hilbert-Geo)
 
 **Ruoran Xu**, Haoyu Cheng, Bin Dong, Qiufeng Wang
 
-[**📝**](https://github.com/CHYYYYYYYY/SolidGeoSolver) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**📝**](https://github.com/PremiLab-Math/Hilbert-Geo) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - By integrating ontology and topological structures, we developed a Multimodal Formalization Parser to enable cross-modal formalization of geometry.
 Leveraging this foundational integration, we further designed a Reasoning Engine equipped with formal verification mechanisms via Parse2Reason step. The framework implements automatic formal reasoning.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/ICML.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/icml_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Singularity-aware Optimization via Randomized Geometric Probing: Towards Stable Non-smooth Optimization](https://github.com/RuoranXu/S-Adam)
@@ -66,7 +71,7 @@ Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/eccv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/eccv1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Omni-Geo: Full-Domain Geometry Benchmark with Multimodal Diagram Generation]()
@@ -82,7 +87,7 @@ Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/mm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[SDF-AnalyticGeo: Multi-Agent for Analytic Geometry Problem Generation]()
+[FormalAnalyticGeo: A Neural-Symbolic Based Framework for Multimodal Analytic Geometry Problem Generation]()
 
 **Ruoran Xu**\*, Wending Gao\*, Qiufeng Wang
 
