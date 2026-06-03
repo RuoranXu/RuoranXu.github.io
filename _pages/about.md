@@ -26,7 +26,7 @@ My goal is to develop robust and resilient intelligent systems with sampling-bas
 My research interests span AI for Verifiable Reasoning, AI for Scientific Discovery, multimodal large language models and Reinforcement learning. 
 <!-->
 <!--In my spare time, I also engage in Mathematical Methods for Physics.-->
-Currently, I am exploring how to efficiently sweep away "trivial" solutions in AI fields; Also, I am more inclined to focus on "long-tail," "causal," and "undecidable" problems.
+Currently, I am exploring how to efficiently sweep away "trivial" solutions in AI fields; Also, I am more inclined to focus on "long-tail," "causal" problems.
 
 
 # 🔥 News
