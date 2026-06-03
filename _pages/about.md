@@ -17,21 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year undergraduate student at Xi'an Jiaotong-Liverpool University, majoring in Applied Mathematics, and I am expected to complete my BSc degree at the University of Liverpool in 2028. Concurrently, I serve as a Research Assistant at [PremiLab](https://premilab-math.github.io/), where I am supervised by Prof. [Qiufeng Wang](https://wqf510.github.io/).
+I am a second-year undergraduate student at Xi'an Jiaotong-Liverpool University, majoring in Applied Mathematics, and I am expected to complete my BSc degree at the University of Liverpool in 2028. <!-- Concurrently, I serve as a Research Assistant at [PremiLab](https://premilab-math.github.io/).<!--, where I am supervised by Prof. [Qiufeng Wang](https://wqf510.github.io/).<!-->
 I will visit yale for several months in the summer, supervised by Prof. [Arman Cohan](https://armancohan.com/) and [Yilun Zhao](https://yilunzhao.github.io/). 
-Feel free to contact me if you are interested in my work. I'm willing to discuss with people from different backgrounds.
+Feel free to contact me if you are interested in my work. I'm willing to discuss with people from different backgrounds. -->
 
-My goal is to achieve robust and resilient reasoning system from the bottom up. I seek inspiration from first principles and put them into practice on both methodology and applied fronts. My explorations have spanned AI for formal reasoning, optimization theory, reinforcement learning, agent systems, retrieval-augmented methods, and AI for scientific discovery.
+My goal is to develop robust and resilient sampling representation and continuous reasoning Intelligent Systems, and to control the capability boundaries of its performance. I am active on both the methodology and application fronts. My explorations have spanned AI for formal reasoning, reinforcement learning, optimization theory, agent systems, and AI for scientific discovery.
 <!--
 My research interests span AI for Verifiable Reasoning, AI for Scientific Discovery, multimodal large language models and Reinforcement learning. 
 <!-->
-In my spare time, I also engage in Mathematical Methods for Physics.
+<!--In my spare time, I also engage in Mathematical Methods for Physics.-->
+Currently, I am exploring how to efficiently sweep away "trivial" solutions in AI fields; Also, I am more inclined to focus on "long-tail," "causal," and "undecidable" problems.
 
 
 # 🔥 News
 
 <div style="max-height: 350px; overflow-y: auto; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px 15px; background-color: #fafafa;" markdown="1">
-- *2026.05*: &nbsp;🎉🎉 Excited to have one paper accepted at ICML 2026!
+- *2026.04*: &nbsp;🎉🎉 Excited to have one paper accepted at ICML 2026!
 - *2026.02*: &nbsp;🎉🎉 Excited to have one paper accepted at CVPR 2026!
 - *2025.06*: &nbsp;🎉🎉 I was supported by the Summer Undergraduate Research Fellowship(SURF) at XJTLU to study LLM for math reasoning.
 - *2025.03*: &nbsp;🎉🎉 I will serve as the Head of the Academic Department for the Math Club and Physics Club at XJTLU.
@@ -150,10 +151,10 @@ Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering
 - *2024* Bronze Award, University Physics Competition in Modeling (UPC)
 - *2022* First Prize, Chinese Physics Olympiad in Provinces(CPHO)
 - *2020* Second Prize, National Olympiad in Informatics in Provinces (NOIP)
--->
+
 # 💻 Internships
 - *2025.03 - 2025.06*, Shanghai AI Lab, Shanghai.
-
+-->
 <h1 align='center'>
 <a href="https://mapmyvisitors.com/web/1c2qa"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=82VdebEAB-IbhOZadmAvBnd7U4ynrwYECN1vdd9ZvRY&cl=ffffff" /></a>
 </h1>
