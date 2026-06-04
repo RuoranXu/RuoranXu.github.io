@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year undergraduate student at Xi'an Jiaotong-Liverpool University, majoring in Applied Mathematics, and I am expected to complete my BSc degree at the University of Liverpool in 2028. <!-- Concurrently, I serve as a Research Assistant at [PremiLab](https://premilab-math.github.io/), where I am supervised by Prof. [Qiufeng Wang](https://wqf510.github.io/).
+I am a second-year undergraduate student at Xi'an Jiaotong-Liverpool University, majoring in Applied Mathematics, and I am expected to complete my BSc degree at the University of Liverpool in 2028. Concurrently, I serve as a Research Assistant at [PremiLab](https://premilab-math.github.io/).<!--, where I am supervised by Prof. [Qiufeng Wang](https://wqf510.github.io/).-->
 I will visit yale for several months in the summer, supervised by Prof. [Arman Cohan](https://armancohan.com/) and [Yilun Zhao](https://yilunzhao.github.io/). 
-Feel free to contact me if you are interested in my work. I'm willing to discuss with people from different backgrounds. -->
+<!--Feel free to contact me if you are interested in my work. I'm willing to discuss with people from different backgrounds. -->
 
 My goal is to develop robust and resilient intelligent systems with sampling-based representations and continuous reasoning capabilities, and to control the capability boundaries of its performance. I am active on both the methodology and application fronts. My explorations have spanned AI for formal reasoning, reinforcement learning, optimization theory, agent systems, and AI for scientific discovery.
 <!--
@@ -67,7 +67,7 @@ Leveraging this foundational integration, we further designed a Reasoning Engine
 **Ruoran Xu**, Borong She, Xiaobo Jin, Qiufeng Wang
 
 [**📝**](https://github.com/RuoranXu/S-Adam) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Proposed a geometry-aware paradigm for non-smooth optimization, capturing Clarke subdifferential via random finite difference to quantify local instability and suppress updates.
+- Proposed a geometry-aware paradigm for non-smooth optimization, capturing subdifferential via random finite difference to quantify local instability and suppress updates.
 Proposed the LGI metric, a rigorous efficient subdifferential diameter proxy built on randomized directional derivatives.
 Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering core theoretical support for singularity-aware optimization.
 </div>
@@ -113,14 +113,14 @@ Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering
 </div>
 
 
-# 🚧 Projects
+# 🚧 Open Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming</div><img src='images/geo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Starting</div><img src='images/geo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Formalize geometric problems in Lean4]()
+[MathRA](https://github.com/RuoranXu/MathRA)
 
-**Leader**
+ Facilitate both formal and informal verification of papers and vibe researching.
 
 [**📝**](https:) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - ......
