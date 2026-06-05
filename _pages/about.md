@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year undergraduate student at Xi'an Jiaotong-Liverpool University, majoring in Applied Mathematics, and I am expected to complete my BSc degree at the University of Liverpool in 2028. Concurrently, I serve as a Research Assistant at [PremiLab](https://premilab-math.github.io/).<!--, where I am supervised by Prof. [Qiufeng Wang](https://wqf510.github.io/).-->
+I am a second-year undergraduate student at Xi'an Jiaotong-Liverpool University, majoring in Applied Mathematics, and I am expected to complete my BSc degree at the University of Liverpool in 2028. Concurrently, I serve as a Research Assistant at [PremiLab](https://premilab-math.github.io/) collaborate wit Prof. [Qiufeng Wang](https://wqf510.github.io/).<!--, where I am supervised by Prof. [Qiufeng Wang](https://wqf510.github.io/).-->
 I will visit Yale for several months in the summer to collaborate with Prof. [Arman Cohan](https://armancohan.com/) and [Yilun Zhao](https://yilunzhao.github.io/). 
 <!--Feel free to contact me if you are interested in my work. I'm willing to discuss with people from different backgrounds. -->
 
-My goal is to develop robust and resilient intelligent systems with sampling-based representations and continuous reasoning capabilities, and to control the capability boundaries of its performance. I am active on both the methodology and application fronts. My explorations have spanned AI for formal reasoning, reinforcement learning, optimization theory, agent systems, and AI for scientific discovery.
+My goal is to develop robust and resilient intelligent systems with sampling-based representations and continuous reasoning capabilities, and to control the capability boundaries of its performance. I am active on both the methodology and application fronts. My explorations have spanned AI for formal reasoning, reinforcement learning, optimization theory, agent system, and AI for scientific discovery.
 <!--
 My research interests span AI for Verifiable Reasoning, AI for Scientific Discovery, multimodal large language models and Reinforcement learning. 
 <!-->
@@ -45,7 +45,7 @@ My research interests span AI for Verifiable Reasoning, AI for Scientific Discov
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications 
-
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/cvpr1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -110,6 +110,146 @@ Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering
 [**📝**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&uswAAAAJ&cation_for_view=DhtAFkwAAAAJ:ALROH1vI_8A) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 -  A large Olympic physics competition multimodal benchmark. We tracked the contestants' daily practice questions, understood the multimodal problem-solving steps, and analyzed and answered them.
 </div>
+</div>
+-->
+
+<div class="row">
+    <div class="column" style="display: inline-block; vertical-align: top; width: 25%; margin-top: 20px;">
+        <a href="images/cvpr1.png"><img src="images/cvpr1.png" alt="sym" width="100%"></a>
+    </div>
+    <div class="column" style="display: inline-block; vertical-align: top; width: 70%; margin-left: 3%">
+        <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-bottom: 0;"><b>Hilbert-Geo: Solving Solid Geometric Problems by Neural-Symbolic Reasoning</b></p>
+        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 5px;">
+                <u><b>Ruoran Xu</b></u>,
+                <span style="color: gray;">Haoyu Cheng</span>,
+                <span style="color: gray;">Bin Dong</span>,
+                <span style="color: gray;">Qiufeng Wang</span>
+        </p>
+        <div style="height: 0px;"></div>
+        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 1px;">Computer Vision and Pattern Recognition (CVPR) 2026</p>
+        <div style="height: 0px;"></div>
+        <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 1px;">
+             <a href="https://github.com/PremiLab-Math/Hilbert-Geo" style="text-decoration: none; color: blue;">[Paper]</a>
+             <a href="https://github.com/PremiLab-Math/Hilbert-Geo" style="text-decoration: none; color: blue;">[Code]</a>
+        </p>
+    </div>
+</div>
+
+<div style="height: 20px;"></div>
+
+<div class="row">
+    <div class="column" style="display: inline-block; vertical-align: top; width: 25%; margin-top: 20px;">
+        <a href="images/icml_1.png"><img src="images/icml_1.png" alt="sym" width="100%"></a>
+    </div>
+    <div class="column" style="display: inline-block; vertical-align: top; width: 70%; margin-left: 3%">
+        <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-bottom: 0;"><b>Singularity-aware Optimization via Randomized Geometric Probing: Towards Stable Non-smooth Optimization</b></p>
+        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 5px;">
+                <u><b>Ruoran Xu</b></u>,
+                <span style="color: gray;">Borong She</span>,
+                <span style="color: gray;">Xiaobo Jin</span>,
+                <span style="color: gray;">Qiufeng Wang</span>
+        </p>
+        <div style="height: 0px;"></div>
+        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 1px;">International Conference on Machine Learning (ICML) 2026</p>
+        <div style="height: 0px;"></div>
+        <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 1px;">
+             <a href="https://github.com/RuoranXu/S-Adam" style="text-decoration: none; color: blue;">[Paper]</a>
+             <a href="https://github.com/RuoranXu/S-Adam" style="text-decoration: none; color: blue;">[Code]</a>
+        </p>
+    </div>
+</div>
+
+<div style="height: 20px;"></div>
+
+<div class="row">
+    <div class="column" style="display: inline-block; vertical-align: top; width: 25%; margin-top: 20px;">
+        <a href="images/eccv1.png"><img src="images/eccv1.png" alt="sym" width="100%"></a>
+    </div>
+    <div class="column" style="display: inline-block; vertical-align: top; width: 70%; margin-left: 3%">
+        <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-bottom: 0;"><b>Omni-Geo: Full-Domain Geometry Benchmark with Multimodal Diagram Generation</b></p>
+        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 5px;">
+                <u><b>Ruoran Xu*</b></u>,
+                <span style="color: gray;">Wending Gao*</span>,
+                <span style="color: gray;">Haoyu Cheng*</span>,
+                <span style="color: gray;">Qiufeng Wang</span>
+        </p>
+        <div style="height: 0px;"></div>
+        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 1px;">Under Review</p>
+        <div style="height: 0px;"></div>
+        <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 1px;">
+        </p>
+    </div>
+</div>
+
+<div style="height: 20px;"></div>
+
+<div class="row">
+    <div class="column" style="display: inline-block; vertical-align: top; width: 25%; margin-top: 20px;">
+        <a href="images/mm.png"><img src="images/mm.png" alt="sym" width="100%"></a>
+    </div>
+    <div class="column" style="display: inline-block; vertical-align: top; width: 70%; margin-left: 3%">
+        <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-bottom: 0;"><b>FormalAnalyticGeo: A Neural-Symbolic Based Framework for Multimodal Analytic Geometry Problem Generation</b></p>
+        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 5px;">
+                <u><b>Ruoran Xu*</b></u>,
+                <span style="color: gray;">Wending Gao*</span>,
+                <span style="color: gray;">Qiufeng Wang</span>
+        </p>
+        <div style="height: 0px;"></div>
+        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 1px;">Under Review</p>
+        <div style="height: 0px;"></div>
+        <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 1px;">
+        </p>
+    </div>
+</div>
+
+<div style="height: 20px;"></div>
+
+<div class="row">
+    <div class="column" style="display: inline-block; vertical-align: top; width: 25%; margin-top: 20px;">
+        <a href="images/phys.png"><img src="images/phys.png" alt="sym" width="100%"></a>
+    </div>
+    <div class="column" style="display: inline-block; vertical-align: top; width: 70%; margin-left: 3%">
+        <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-bottom: 0;"><b>PhysElite: How Far Are LLMs from Solving Olympiad-Level Physics Problems?</b></p>
+        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 5px;">
+                <u><b>Ruoran Xu*</b></u>,
+                <span style="color: gray;">Wending Gao*</span>,
+                <span style="color: gray;">Liyunfeng Chen*</span>,
+                <span style="color: gray;">Aixin Shi*</span>,
+                <span style="color: gray;">Haoyu Cheng</span>,
+                <span style="color: gray;">Zixiang Fang</span>,
+                <span style="color: gray;">Yiqiang Zou</span>,
+                <span style="color: gray;">Qiufeng Wang</span>
+        </p>
+        <div style="height: 0px;"></div>
+        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 1px;">Under Review</p>
+        <div style="height: 0px;"></div>
+        <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 1px;">
+        </p>
+    </div>
+</div>
+
+<div style="height: 20px;"></div>
+
+<div class="row">
+    <div class="column" style="display: inline-block; vertical-align: top; width: 25%; margin-top: 20px;">
+        <a href="#"><img src="images/emnlp.png" alt="Latent Memory Adapters" width="100%"></a>
+    </div>
+    <div class="column" style="display: inline-block; vertical-align: top; width: 70%; margin-left: 3%">
+        <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-bottom: 0;"><b>Latent Memory Adapters: Compiling Documents into Activation-Space Values for Long Document Question Answering</b></p>
+        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 5px;">
+                <u><b>Ruoran Xu</b></u>,
+                <span style="color: gray;">Yilun Zhao</span>,
+                <span style="color: gray;">Songting Yu</span>,
+                <span style="color: gray;">Siyue Zhang</span>,
+                <span style="color: gray;">Tianyu Yang</span>,
+                <span style="color: gray;">Arman Cohan</span>
+        </p>
+        <div style="height: 0px;"></div>
+        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 1px;">Submission to ACL ARR</p>
+        <div style="height: 0px;"></div>
+        <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 1px;">
+        </p>
+    </div>
 </div>
 
 
