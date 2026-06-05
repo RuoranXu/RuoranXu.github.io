@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year undergraduate student at Xi'an Jiaotong-Liverpool University, majoring in Applied Mathematics, and I am expected to complete my BSc degree at the University of Liverpool in 2028. Concurrently, I serve as a Research Assistant at [PremiLab](https://premilab-math.github.io/) collaborate wit Prof. [Qiufeng Wang](https://wqf510.github.io/).<!--, where I am supervised by Prof. [Qiufeng Wang](https://wqf510.github.io/).-->
+I am a second-year undergraduate student at Xi'an Jiaotong-Liverpool University, majoring in Applied Mathematics, and I am expected to complete my BSc degree at the University of Liverpool in 2028. Concurrently, I serve as a Research Assistant at [PremiLab](https://premilab-math.github.io/), collaborating with Prof. [Qiufeng Wang](https://wqf510.github.io/).<!--, where I am supervised by Prof. [Qiufeng Wang](https://wqf510.github.io/).-->
 I will visit Yale for several months in the summer to collaborate with Prof. [Arman Cohan](https://armancohan.com/) and [Yilun Zhao](https://yilunzhao.github.io/). 
 <!--Feel free to contact me if you are interested in my work. I'm willing to discuss with people from different backgrounds. -->
 
