@@ -255,7 +255,7 @@ Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering
 
 # 🚧 Open Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Starting</div><img src='images/geo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Starting</div><img src='images/MathRA.png' alt="sym" width="30%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MathRA](https://github.com/RuoranXu/MathRA)
@@ -263,7 +263,7 @@ Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering
  Facilitate both formal and informal verification of papers and vibe researching.
 
 [**📝**](https:) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- ......
+- HCI
 </div>
 </div>
 
