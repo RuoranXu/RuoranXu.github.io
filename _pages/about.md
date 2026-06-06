@@ -19,7 +19,7 @@ redirect_from:
 
 I am a second-year undergraduate student at Xi'an Jiaotong-Liverpool University, majoring in Applied Mathematics, and I am expected to complete my BSc degree at the University of Liverpool in 2028. Concurrently, I serve as a Research Assistant at [PremiLab](https://premilab-math.github.io/), collaborating with Prof. [Qiufeng Wang](https://wqf510.github.io/).<!--, where I am supervised by Prof. [Qiufeng Wang](https://wqf510.github.io/).-->
 I will visit Yale for several months in the summer to collaborate with Prof. [Arman Cohan](https://armancohan.com/) and [Yilun Zhao](https://yilunzhao.github.io/). 
-<!--Feel free to contact me if you are interested in my work. I'm willing to discuss with people from different backgrounds. -->
+Feel free to contact me if you are interested in my work. I'm willing to discuss with people from different backgrounds.
 
 My goal is to develop robust and resilient intelligent systems with sampling-based representations and continuous reasoning capabilities, and to control the capability boundaries of its performance. I am active on both the methodology and application fronts. My explorations have spanned AI for formal reasoning, reinforcement learning, optimization theory, agent system, and AI for scientific discovery.
 <!--
