@@ -115,7 +115,10 @@ Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering
 
 <div class="row">
     <div class="column" style="display: inline-block; vertical-align: top; width: 25%; margin-top: 20px;">
-        <a href="images/cvpr1.png"><img src="images/cvpr1.png" alt="sym" width="100%"></a>
+        <div style="position: relative;">
+            <div class="badge">CVPR 2026</div>
+            <a href="images/cvpr1.png"><img src="images/cvpr1.png" alt="sym" width="100%"></a>
+        </div>
     </div>
     <div class="column" style="display: inline-block; vertical-align: top; width: 70%; margin-left: 3%">
         <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-bottom: 0;"><b>Hilbert-Geo: Solving Solid Geometric Problems by Neural-Symbolic Reasoning</b></p>
@@ -139,7 +142,10 @@ Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering
 
 <div class="row">
     <div class="column" style="display: inline-block; vertical-align: top; width: 25%; margin-top: 20px;">
-        <a href="images/icml_1.png"><img src="images/icml_1.png" alt="sym" width="100%"></a>
+        <div style="position: relative;">
+            <div class="badge">ICML 2026</div>
+            <a href="images/icml_1.png"><img src="images/icml_1.png" alt="sym" width="100%"></a>
+        </div>
     </div>
     <div class="column" style="display: inline-block; vertical-align: top; width: 70%; margin-left: 3%">
         <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-bottom: 0;"><b>Singularity-aware Optimization via Randomized Geometric Probing: Towards Stable Non-smooth Optimization</b></p>
