@@ -258,6 +258,25 @@ Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering
     </div>
 </div>
 
+<div style="height: 20px;"></div>
+
+<div class="row">
+    <div class="column" style="display: inline-block; vertical-align: top; width: 25%; margin-top: 20px;">
+        <a href="#"><img src="images/" alt="Latent Memory Adapters" width="100%"></a>
+    </div>
+    <div class="column" style="display: inline-block; vertical-align: top; width: 70%; margin-left: 3%">
+        <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-bottom: 0;"><b>Strong-Polynomial Universality of Three-Sparse Linear Programming</b></p>
+        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 5px;">
+                <u><b>Ruoran Xu</b></u>
+        </p>
+        <div style="height: 0px;"></div>
+        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 1px;">Under Review</p>
+        <div style="height: 0px;"></div>
+        <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 1px;">
+        </p>
+    </div>
+</div>
+
 
 # 🚧 Open Projects
 
