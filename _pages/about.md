@@ -23,7 +23,8 @@ I am a second-year undergraduate student at Xi'an Jiaotong-Liverpool University,
 I will visit Yale for several months in the summer to collaborate with Prof. [Arman Cohan](https://armancohan.com/) and [Yilun Zhao](https://yilunzhao.github.io/). 
 Feel free to contact me if you are interested in my work. I'm willing to discuss with people from different backgrounds.-->
 
-My goal is to develop robust systems with sampling-based representations and continuous reasoning capabilities, and to control the capability boundaries of its performance. I am active on both the methodology and application fronts. My explorations have spanned AI for formal reasoning, reinforcement learning, optimization theory and agent system.
+My goal is to develop robust intelligent systems with sampling-based representations and continuous reasoning capabilities, and to control the capability boundaries of its performance. I am active on both the methodology and application fronts. My explorations have spanned AI for formal reasoning, reinforcement learning, optimization theory and agent system.
+Feel free to contact me if you are interested in my work.
 <!--
 My research interests span AI for Verifiable Reasoning, AI for Scientific Discovery, multimodal large language models and Reinforcement learning. 
 <!-->
