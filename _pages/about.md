@@ -40,7 +40,7 @@ My research interests span AI for Verifiable Reasoning, AI for Scientific Discov
 <div style="max-height: 350px; overflow-y: auto; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px 15px; background-color: #fafafa;" markdown="1">
 - *2026.04*: &nbsp;🎉🎉 Excited to have one paper accepted at ICML 2026!
 - *2026.02*: &nbsp;🎉🎉 Excited to have one paper accepted at CVPR 2026!
-- *2025.06*: &nbsp;🎉🎉 I was supported by the Summer Undergraduate Research Fellowship(SURF) at XJTLU to study LLM for math reasoning.
+<!-- *2025.06*: &nbsp;🎉🎉 I was supported by the Summer Undergraduate Research Fellowship(SURF) at XJTLU to study LLM for math reasoning.-->
 - *2025.03*: &nbsp;🎉🎉 I will serve as the Head of the Academic Department for the Math Club and Physics Club at XJTLU.
 - *2025.02*: &nbsp;🎉🎉 I joined [PremiLab](https://premilab-math.github.io/) as a research assistant.
 - *2024.12*: &nbsp;🎉🎉 I translated a textbook: Method in contemporary mathematical physics. [Here](https://drive.google.com/file/d/1Z2Gl61_IojbPB8iT0BGODMree5qUinw6/view?usp=sharing) is a part of the first draft.
@@ -202,6 +202,7 @@ Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering
         <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 5px;">
                 <u><b>Ruoran Xu*</b></u>,
                 <span style="color: gray;">Wending Gao*</span>,
+                <span style="color: gray;">Xiaoqiang Kang</span>,
                 <span style="color: gray;">Qiufeng Wang</span>
         </p>
         <div style="height: 0px;"></div>
@@ -242,6 +243,30 @@ Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering
 
 <div class="row">
     <div class="column" style="display: inline-block; vertical-align: top; width: 25%; margin-top: 20px;">
+        <a href="#"><img src="images/" alt="omni-Geo" width="100%"></a>
+    </div>
+    <div class="column" style="display: inline-block; vertical-align: top; width: 70%; margin-left: 3%">
+        <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-bottom: 0;"><b>Omni-Geo: Neuro-Symbolic Architecture for Geometry Reasoning</b></p>
+        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 5px;">
+                <u><b>Ruoran Xu</b></u>,
+                <span style="color: gray;">Wending Gao</span>,
+                <span style="color: gray;">Haoyu Cheng</span>,
+                <span style="color: gray;">Xiaoqiang Kang</span>,
+                <span style="color: gray;">Qiufeng Wang</span>
+        </p>
+        <div style="height: 0px;"></div>
+        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 1px;">Under Review</p>
+        <div style="height: 0px;"></div>
+        <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 1px;">
+        </p>
+    </div>
+</div>
+
+
+<div style="height: 20px;"></div>
+
+<div class="row">
+    <div class="column" style="display: inline-block; vertical-align: top; width: 25%; margin-top: 20px;">
         <a href="#"><img src="images/emnlp.png" alt="Latent Memory Adapters" width="100%"></a>
     </div>
     <div class="column" style="display: inline-block; vertical-align: top; width: 70%; margin-left: 3%">
@@ -255,7 +280,7 @@ Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering
                 <span style="color: gray;">Arman Cohan</span>
         </p>
         <div style="height: 0px;"></div>
-        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 1px;">Submission to ACL ARR</p>
+        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 1px;">Under Review</p>
         <div style="height: 0px;"></div>
         <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 1px;">
         </p>
@@ -263,6 +288,11 @@ Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering
 </div>
 
 <div style="height: 20px;"></div>
+
+
+
+
+
 <!--
 <div class="row">
     <div class="column" style="display: inline-block; vertical-align: top; width: 25%; margin-top: 20px;">
