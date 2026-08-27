@@ -209,6 +209,8 @@ Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering
         <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 1px;">Under Review</p>
         <div style="height: 0px;"></div>
         <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 1px;">
+             <a href="https://arxiv.org/abs/2607.12982" style="text-decoration: none; color: blue;">[Paper]</a>
+             <a href="https://github.com/wendinggao/FormalAnalyticGeo" style="text-decoration: none; color: blue;">[Code]</a>
         </p>
     </div>
 </div>
@@ -235,6 +237,8 @@ Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering
         <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 1px;">Under Review</p>
         <div style="height: 0px;"></div>
         <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 1px;">
+             <a href="https://arxiv.org/abs/2608.25097" style="text-decoration: none; color: blue;">[Paper]</a>
+             <a href="https://huggingface.co/datasets/physelite/PhysElite" style="text-decoration: none; color: blue;">[Code]</a>
         </p>
     </div>
 </div>
