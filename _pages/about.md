@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year undergraduate student at Xi'an Jiaotong-Liverpool University, majoring in Applied Mathematics, and I am expected to complete my BSc degree at the University of Liverpool in 2028. 
+I am a junior at Xi'an Jiaotong-Liverpool University, majoring in Applied Mathematics, and I am expected to complete my BSc degree at the University of Liverpool in 2028. 
 Concurrently, I serve as a Research Assistant at [PremiLab](https://premilab-math.github.io/) and intern at the [Yale NLP lab](https://nlp.cs.yale.edu/).
 <!-- Concurrently, I serve as a Research Assistant at [PremiLab](https://premilab-math.github.io/), collaborating with Prof. [Qiufeng Wang](https://wqf510.github.io/).-->
 <!--, where I am supervised by Prof. [Qiufeng Wang](https://wqf510.github.io/).-->
@@ -26,7 +26,7 @@ I will visit Yale for several months in the summer to collaborate with Prof. [Ar
 Feel free to contact me if you are interested in my work. I'm willing to discuss with people from different backgrounds.-->
 
 My goal is to develop robust intelligent systems with sampling-based representations and continuous reasoning capabilities, and to control the capability boundaries of its performance. I am active on both the methodology and application fronts. My explorations have spanned AI for formal reasoning, reinforcement learning, optimization theory and agent system.
-Feel free to contact me if you are interested in my work.
+Feel free to contact me if you are interested in my work. I am planning to apply for **2028‑Fall PhD** positions.
 <!--
 My research interests span AI for Verifiable Reasoning, AI for Scientific Discovery, multimodal large language models and Reinforcement learning. 
 <!-->
@@ -38,7 +38,7 @@ My research interests span AI for Verifiable Reasoning, AI for Scientific Discov
 # 🔥 News
 
 <div style="max-height: 350px; overflow-y: auto; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px 15px; background-color: #fafafa;" markdown="1">
-- *2026.04*: &nbsp;🎉🎉 Excited to have one paper accepted at ICML 2026!
+- *2026.04*: &nbsp;🎉🎉 Excited to have one paper accepted at ICML 2026! See you in Seoul!
 - *2026.02*: &nbsp;🎉🎉 Excited to have one paper accepted at CVPR 2026!
 <!-- *2025.06*: &nbsp;🎉🎉 I was supported by the Summer Undergraduate Research Fellowship(SURF) at XJTLU to study LLM for math reasoning.-->
 - *2025.03*: &nbsp;🎉🎉 I will serve as the Head of the Academic Department for the Math Club and Physics Club at XJTLU.
@@ -328,6 +328,18 @@ Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering
 
 [**📝**](https:) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - HCI
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images' alt="sym" width="60%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MathRA](https://github.com/RuoranXu/ViaLean)
+
+Proof‑search engine in Lean, customized for post‑training and test‑time training.
+
+[**📝**](https:) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
 </div>
 </div>
 
