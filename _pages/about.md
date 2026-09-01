@@ -331,10 +331,10 @@ Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ViaLean.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MathRA](https://github.com/RuoranXu/ViaLean)
+[ViaLean](https://github.com/RuoranXu/ViaLean)
 
 Proof‑search engine in Lean, customized for post‑training and test‑time training.
 
