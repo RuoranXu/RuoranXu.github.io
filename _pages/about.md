@@ -138,7 +138,7 @@ Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering
         <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 1px;">Computer Vision and Pattern Recognition (CVPR) 2026</p>
         <div style="height: 0px;"></div>
         <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 1px;">
-             <a href="https://github.com/PremiLab-Math/Hilbert-Geo" style="text-decoration: none; color: blue;">[Paper]</a>
+             <a href="https://arxiv.org/abs/2605.16385" style="text-decoration: none; color: blue;">[Paper]</a>
              <a href="https://github.com/PremiLab-Math/Hilbert-Geo" style="text-decoration: none; color: blue;">[Code]</a>
         </p>
     </div>
@@ -165,7 +165,7 @@ Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering
         <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 1px;">International Conference on Machine Learning (ICML) 2026</p>
         <div style="height: 0px;"></div>
         <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 1px;">
-             <a href="https://github.com/RuoranXu/S-Adam" style="text-decoration: none; color: blue;">[Paper]</a>
+             <a href="https://arxiv.org/abs/2605.29547" style="text-decoration: none; color: blue;">[Paper]</a>
              <a href="https://github.com/RuoranXu/S-Adam" style="text-decoration: none; color: blue;">[Code]</a>
         </p>
     </div>
