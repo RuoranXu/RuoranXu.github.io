@@ -39,6 +39,7 @@ My research interests span AI for Verifiable Reasoning, AI for Scientific Discov
 # 🔥 News
 
 <div style="max-height: 350px; overflow-y: auto; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px 15px; background-color: #fafafa;" markdown="1">
+- *2026.09*: &nbsp;🎉🎉 Excited to have one paper accepted at NeurIPS 2026!
 - *2026.04*: &nbsp;🎉🎉 Excited to have one paper accepted at ICML 2026! See you in Seoul!
 - *2026.02*: &nbsp;🎉🎉 Excited to have one paper accepted at CVPR 2026!
 <!-- *2025.06*: &nbsp;🎉🎉 I was supported by the Summer Undergraduate Research Fellowship(SURF) at XJTLU to study LLM for math reasoning.-->
@@ -235,7 +236,7 @@ Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering
                 <span style="color: gray;">Qiufeng Wang</span>
         </p>
         <div style="height: 0px;"></div>
-        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 1px;">Under Review</p>
+        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 1px;">Annual Conference on Neural Information Processing Systems (NeurIPS) 2026</p>
         <div style="height: 0px;"></div>
         <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 1px;">
              <a href="https://arxiv.org/abs/2608.25097" style="text-decoration: none; color: blue;">[Paper]</a>
