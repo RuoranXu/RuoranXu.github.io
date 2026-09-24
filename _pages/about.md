@@ -230,7 +230,7 @@ Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering
                 <span style="color: gray;">Wending Gao*</span>,
                 <span style="color: gray;">Liyunfeng Chen*</span>,
                 <span style="color: gray;">Aixin Shi*</span>,
-                <span style="color: gray;">Haoyu Cheng</span>,
+                <span style="color: gray;">Haoyu Cheng*</span>,
                 <span style="color: gray;">Zixiang Fang</span>,
                 <span style="color: gray;">Yiqiang Zou</span>,
                 <span style="color: gray;">Qiufeng Wang</span>
