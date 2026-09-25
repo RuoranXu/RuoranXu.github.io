@@ -197,30 +197,6 @@ Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering
 
 <div class="row">
     <div class="column" style="display: inline-block; vertical-align: top; width: 25%; margin-top: 20px;">
-        <a href="images/mm.png"><img src="images/mm.png" alt="sym" width="100%"></a>
-    </div>
-    <div class="column" style="display: inline-block; vertical-align: top; width: 70%; margin-left: 3%">
-        <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-bottom: 0;"><b>FormalAnalyticGeo: A Neural-Symbolic Based Framework for Multimodal Analytic Geometry Problem Generation</b></p>
-        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 5px;">
-                <u><b>Ruoran Xu*</b></u>,
-                <span style="color: gray;">Wending Gao*</span>,
-                <span style="color: gray;">Xiaoqiang Kang</span>,
-                <span style="color: gray;">Qiufeng Wang</span>
-        </p>
-        <div style="height: 0px;"></div>
-        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 1px;">Under Review</p>
-        <div style="height: 0px;"></div>
-        <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 1px;">
-             <a href="https://arxiv.org/abs/2607.12982" style="text-decoration: none; color: blue;">[Paper]</a>
-             <a href="https://github.com/wendinggao/FormalAnalyticGeo" style="text-decoration: none; color: blue;">[Code]</a>
-        </p>
-    </div>
-</div>
-
-<div style="height: 20px;"></div>
-
-<div class="row">
-    <div class="column" style="display: inline-block; vertical-align: top; width: 25%; margin-top: 20px;">
         <div style="position: relative;">
             <div class="badge">NeurIPS 2026</div>
         <a href="images/phys.png"><img src="images/phys.png" alt="sym" width="100%"></a>
@@ -243,6 +219,30 @@ Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering
         <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 1px;">
              <a href="https://arxiv.org/abs/2608.25097" style="text-decoration: none; color: blue;">[Paper]</a>
              <a href="https://huggingface.co/datasets/physelite/PhysElite" style="text-decoration: none; color: blue;">[Code]</a>
+        </p>
+    </div>
+</div>
+
+<div style="height: 20px;"></div>
+
+<div class="row">
+    <div class="column" style="display: inline-block; vertical-align: top; width: 25%; margin-top: 20px;">
+        <a href="images/mm.png"><img src="images/mm.png" alt="sym" width="100%"></a>
+    </div>
+    <div class="column" style="display: inline-block; vertical-align: top; width: 70%; margin-left: 3%">
+        <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-bottom: 0;"><b>FormalAnalyticGeo: A Neural-Symbolic Based Framework for Multimodal Analytic Geometry Problem Generation</b></p>
+        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 5px;">
+                <u><b>Ruoran Xu*</b></u>,
+                <span style="color: gray;">Wending Gao*</span>,
+                <span style="color: gray;">Xiaoqiang Kang</span>,
+                <span style="color: gray;">Qiufeng Wang</span>
+        </p>
+        <div style="height: 0px;"></div>
+        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 1px;">Under Review</p>
+        <div style="height: 0px;"></div>
+        <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 1px;">
+             <a href="https://arxiv.org/abs/2607.12982" style="text-decoration: none; color: blue;">[Paper]</a>
+             <a href="https://github.com/wendinggao/FormalAnalyticGeo" style="text-decoration: none; color: blue;">[Code]</a>
         </p>
     </div>
 </div>
