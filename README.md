@@ -33,6 +33,8 @@ python -m http.server 8000
 
 另按本人提供的信息，在 Publications 最后追加 Evidence Bypass 与 OC-OPD 两篇论文，均标为 Under review at ICLR。联系方式移除 ORCID、ResearchGate，并增加显示 `Rowan_Xu1` 的微信弹窗，可通过关闭按钮、Esc 或点击遮罩关闭。
 
+PhysElite 的 Ruoran Xu 标注 `*†`，其中 `† Project lead`，保留原来的共同贡献标识。页底使用 “Design and source code from Jon Barron's website”。原站 MapMyVisitors 图片统计以右下角透明 1px 图片加载，不占页面空间，不可点击，也不向屏幕阅读器展示；统计后台为 https://mapmyvisitors.com/web/1c2qa 。
+
 两篇 workshop 论文的 Paper 链接为空，因此仅提供有效的 Code 链接。所有论文统一为无图布局。PhysElite 的 Hugging Face 链接标为 Dataset。原站无有效地址的 CV、Blog、项目笔记入口不生成空链接。
 
 `reference/` 保存迁移时读取的原始内容和排版参考，便于核对，不需要上传。字体许可证见 `assets/fonts/OFL.txt`。
