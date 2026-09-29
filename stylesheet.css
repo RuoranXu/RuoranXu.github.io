@@ -37,8 +37,10 @@ dialog::backdrop { background: #0006; }
 .dialog-close:hover { color: #222; }
 .wechat-id { margin: 20px 0 4px; font-size: 18px; user-select: all; }
 .section { padding: 20px; }
-.news ul { list-style: none; margin: 15px 0 0; padding: 0; }
-.news li { display: grid; grid-template-columns: 65px minmax(0, 1fr); gap: 12px; margin: 7px 0; }
+.news-scroll { max-height: var(--news-height, 112px); overflow-y: auto; margin-top: 15px; padding-right: 16px; scrollbar-gutter: stable; scrollbar-width: thin; scrollbar-color: #b8b8b8 #f5f5f5; }
+.news-scroll:focus-visible { outline: 2px solid #1772d0; outline-offset: 5px; }
+.news ul { display: flex; flex-direction: column; gap: 7px; list-style: none; margin: 0; padding: 0; }
+.news li { display: grid; grid-template-columns: 65px minmax(0, 1fr); gap: 12px; }
 .news time { font-weight: 700; font-variant-numeric: tabular-nums; white-space: nowrap; }
 .section-heading { padding-bottom: 10px; }
 .note { color: #666; font-size: 13px; }
@@ -63,13 +65,14 @@ footer { padding: 32px 20px 24px; text-align: right; font-size: 12px; color: #77
   .portrait { grid-row: 1; width: 150px; margin: 10px auto 16px; }
   h1 { margin-bottom: 18px; }
   .section { padding: 20px 22px; }
-  .news li { grid-template-columns: 62px minmax(0, 1fr); gap: 10px; margin: 10px 0; }
+  .news ul { gap: 10px; }
+  .news li { grid-template-columns: 62px minmax(0, 1fr); gap: 10px; }
   .research-row { grid-template-columns: 115px minmax(0, 1fr); gap: 20px; padding: 20px 22px; }
   .publication-scroll { max-height: 420px; margin-right: 22px; margin-left: 22px; padding-right: 12px; }
   .contact { gap: 5px 8px; }
 }
 @media print {
-  .publication-scroll { max-height: none; overflow: visible; }
+  .publication-scroll, .news-scroll { max-height: none; overflow: visible; }
 }
 @media (max-width: 420px) {
   .research-row { grid-template-columns: 1fr; gap: 14px; }

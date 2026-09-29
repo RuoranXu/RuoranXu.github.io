@@ -31,6 +31,7 @@
 
     <section class="news section" id="news" aria-labelledby="news-title">
       <h2 id="news-title">News</h2>
+      <div class="news-scroll" tabindex="0" role="region" aria-label="News — scroll to view older updates">
       <ul>
         <li><time datetime="2026-09">2026-09</time><span>Omni-Geo and ViaLean have been accepted by the <strong>MATH-AI Workshop at NeurIPS</strong>.</span></li>
         <li><time datetime="2026-09">2026-09</time><span>One paper has been accepted at <strong>NeurIPS 2026</strong>.</span></li>
@@ -39,6 +40,7 @@
         <li><time datetime="2025-02">2025-02</time><span>I joined <a href="https://premilab-math.github.io/">PremiLab</a> as a research assistant.</span></li>
         <li><time datetime="2024-12">2024-12</time><span>I translated a textbook: <em>Method in contemporary mathematical physics</em>. <a href="https://drive.google.com/file/d/1Z2Gl61_IojbPB8iT0BGODMree5qUinw6/view?usp=sharing">Here</a> is a part of the first draft.</span></li>
       </ul>
+      </div>
     </section>
 
     <section id="publications" aria-labelledby="publications-title">
@@ -57,6 +59,7 @@
           <p class="venue"><em>Annual Conference on Neural Information Processing Systems (NeurIPS)</em>, 2026</p>
           <p class="paper-links"><a href="https://arxiv.org/abs/2608.25097">Paper</a><span>/</span><a href="https://huggingface.co/datasets/physelite/PhysElite">Code</a></p>
         </div>
+      </article>
       <article class="publication">
         <div><h3><a href="https://arxiv.org/abs/2605.16385">Hilbert-Geo: Solving Solid Geometric Problems by Neural-Symbolic Reasoning</a></h3>
           <p><strong>Ruoran Xu</strong>, Haoyu Cheng, Bin Dong, Qiufeng Wang</p>
@@ -77,9 +80,8 @@
           <p class="venue"><em>MATH-AI Workshop at NeurIPS</em>, 2026</p>
           <p class="paper-links"><a href="https://github.com/PremiLab-Math/Omnigeo">Code</a></p>
         </div>
-          
-        <!--
       </article>
+      <!--
       <article class="publication">
         <div><h3>Better Answers, Weaker Evidence Control: Evidence Bypass in On-Policy Distillation</h3>
           <p><strong>Ruoran Xu</strong>, Yilun Zhao, Ziyu Chen, Xiaoqiang Kang, Arman Cohan</p>
@@ -92,8 +94,8 @@
           <p class="venue"><strong>Under review at ICLR</strong></p>
         </div>
       </article>
-      </div>
       -->
+      </div>
     </section>
 
     <section id="projects" aria-labelledby="projects-title">
@@ -119,6 +121,18 @@
     <p class="wechat-id">Rowan_Xu1</p>
   </dialog>
   <script>
+    const newsScroll = document.querySelector('.news-scroll');
+    const visibleNews = [...newsScroll.querySelectorAll('li')].slice(0, 4);
+    function sizeNewsWindow() {
+      if (!visibleNews.length) return;
+      const first = visibleNews[0].getBoundingClientRect();
+      const last = visibleNews[visibleNews.length - 1].getBoundingClientRect();
+      newsScroll.style.setProperty('--news-height', `${Math.ceil(last.bottom - first.top)}px`);
+    }
+    sizeNewsWindow();
+    const newsResizeObserver = new ResizeObserver(sizeNewsWindow);
+    visibleNews.forEach(item => newsResizeObserver.observe(item));
+
     const wechatDialog = document.getElementById('wechat-dialog');
     document.getElementById('wechat-trigger').addEventListener('click', () => wechatDialog.showModal());
     wechatDialog.querySelector('.dialog-close').addEventListener('click', () => wechatDialog.close());
